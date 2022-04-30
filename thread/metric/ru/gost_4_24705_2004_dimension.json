@@ -1,0 +1,3906 @@
+[
+  {
+    "id": "1",
+    "diam": "0.25",
+    "pitch": "0.075",
+    "pitch_diam_d2": "0.201286071",
+    "minor_diam_d1": "0.1688101184",
+    "minor_diam_d3": "0.1579848009"
+  },
+  {
+    "id": "2",
+    "diam": "0.3",
+    "pitch": "0.08",
+    "pitch_diam_d2": "0.2480384758",
+    "minor_diam_d1": "0.2133974596",
+    "minor_diam_d3": "0.2018504542"
+  },
+  {
+    "id": "3",
+    "diam": "0.35",
+    "pitch": "0.09",
+    "pitch_diam_d2": "0.2915432852",
+    "minor_diam_d1": "0.2525721421",
+    "minor_diam_d3": "0.239581761"
+  },
+  {
+    "id": "4",
+    "diam": "0.4",
+    "pitch": "0.1",
+    "pitch_diam_d2": "0.3350480947",
+    "minor_diam_d1": "0.2917468245",
+    "minor_diam_d3": "0.2773130678"
+  },
+  {
+    "id": "5",
+    "diam": "0.45",
+    "pitch": "0.1",
+    "pitch_diam_d2": "0.3850480947",
+    "minor_diam_d1": "0.3417468245",
+    "minor_diam_d3": "0.3273130678"
+  },
+  {
+    "id": "6",
+    "diam": "0.5",
+    "pitch": "0.125",
+    "pitch_diam_d2": "0.4188101184",
+    "minor_diam_d1": "0.3646835306",
+    "minor_diam_d3": "0.3466413348"
+  },
+  {
+    "id": "7",
+    "diam": "0.55",
+    "pitch": "0.125",
+    "pitch_diam_d2": "0.4688101184",
+    "minor_diam_d1": "0.4146835306",
+    "minor_diam_d3": "0.3966413348"
+  },
+  {
+    "id": "8",
+    "diam": "0.6",
+    "pitch": "0.15",
+    "pitch_diam_d2": "0.5025721421",
+    "minor_diam_d1": "0.4376202368",
+    "minor_diam_d3": "0.4159696017"
+  },
+  {
+    "id": "9",
+    "diam": "0.7",
+    "pitch": "0.175",
+    "pitch_diam_d2": "0.5863341657",
+    "minor_diam_d1": "0.5105569429",
+    "minor_diam_d3": "0.4852978687"
+  },
+  {
+    "id": "10",
+    "diam": "0.8",
+    "pitch": "0.2",
+    "pitch_diam_d2": "0.6700961894",
+    "minor_diam_d1": "0.583493649",
+    "minor_diam_d3": "0.5546261356"
+  },
+  {
+    "id": "11",
+    "diam": "0.9",
+    "pitch": "0.225",
+    "pitch_diam_d2": "0.7538582131",
+    "minor_diam_d1": "0.6564303551",
+    "minor_diam_d3": "0.6239544026"
+  },
+  {
+    "id": "12",
+    "diam": "1",
+    "pitch": "0.25",
+    "pitch_diam_d2": "0.8376202368",
+    "minor_diam_d1": "0.7293670613",
+    "minor_diam_d3": "0.6932826695"
+  },
+  {
+    "id": "13",
+    "diam": "1",
+    "pitch": "0.2",
+    "pitch_diam_d2": "0.8700961894",
+    "minor_diam_d1": "0.783493649",
+    "minor_diam_d3": "0.7546261356"
+  },
+  {
+    "id": "14",
+    "diam": "1.1",
+    "pitch": "0.25",
+    "pitch_diam_d2": "0.9376202368",
+    "minor_diam_d1": "0.8293670613",
+    "minor_diam_d3": "0.7932826695"
+  },
+  {
+    "id": "15",
+    "diam": "1.1",
+    "pitch": "0.2",
+    "pitch_diam_d2": "0.9700961894",
+    "minor_diam_d1": "0.883493649",
+    "minor_diam_d3": "0.8546261356"
+  },
+  {
+    "id": "16",
+    "diam": "1.2",
+    "pitch": "0.25",
+    "pitch_diam_d2": "1.037620237",
+    "minor_diam_d1": "0.9293670613",
+    "minor_diam_d3": "0.8932826695"
+  },
+  {
+    "id": "17",
+    "diam": "1.2",
+    "pitch": "0.2",
+    "pitch_diam_d2": "1.070096189",
+    "minor_diam_d1": "0.983493649",
+    "minor_diam_d3": "0.9546261356"
+  },
+  {
+    "id": "18",
+    "diam": "1.4",
+    "pitch": "0.3",
+    "pitch_diam_d2": "1.205144284",
+    "minor_diam_d1": "1.075240474",
+    "minor_diam_d3": "1.031939203"
+  },
+  {
+    "id": "19",
+    "diam": "1.4",
+    "pitch": "0.2",
+    "pitch_diam_d2": "1.270096189",
+    "minor_diam_d1": "1.183493649",
+    "minor_diam_d3": "1.154626136"
+  },
+  {
+    "id": "20",
+    "diam": "1.6",
+    "pitch": "0.35",
+    "pitch_diam_d2": "1.372668331",
+    "minor_diam_d1": "1.221113886",
+    "minor_diam_d3": "1.170595737"
+  },
+  {
+    "id": "21",
+    "diam": "1.6",
+    "pitch": "0.2",
+    "pitch_diam_d2": "1.470096189",
+    "minor_diam_d1": "1.383493649",
+    "minor_diam_d3": "1.354626136"
+  },
+  {
+    "id": "22",
+    "diam": "1.8",
+    "pitch": "0.35",
+    "pitch_diam_d2": "1.572668331",
+    "minor_diam_d1": "1.421113886",
+    "minor_diam_d3": "1.370595737"
+  },
+  {
+    "id": "23",
+    "diam": "1.8",
+    "pitch": "0.2",
+    "pitch_diam_d2": "1.670096189",
+    "minor_diam_d1": "1.583493649",
+    "minor_diam_d3": "1.554626136"
+  },
+  {
+    "id": "24",
+    "diam": "2",
+    "pitch": "0.4",
+    "pitch_diam_d2": "1.740192379",
+    "minor_diam_d1": "1.566987298",
+    "minor_diam_d3": "1.509252271"
+  },
+  {
+    "id": "25",
+    "diam": "2",
+    "pitch": "0.25",
+    "pitch_diam_d2": "1.837620237",
+    "minor_diam_d1": "1.729367061",
+    "minor_diam_d3": "1.69328267"
+  },
+  {
+    "id": "26",
+    "diam": "2.2",
+    "pitch": "0.45",
+    "pitch_diam_d2": "1.907716426",
+    "minor_diam_d1": "1.71286071",
+    "minor_diam_d3": "1.647908805"
+  },
+  {
+    "id": "27",
+    "diam": "2.2",
+    "pitch": "0.25",
+    "pitch_diam_d2": "2.037620237",
+    "minor_diam_d1": "1.929367061",
+    "minor_diam_d3": "1.89328267"
+  },
+  {
+    "id": "28",
+    "diam": "2.5",
+    "pitch": "0.45",
+    "pitch_diam_d2": "2.207716426",
+    "minor_diam_d1": "2.01286071",
+    "minor_diam_d3": "1.947908805"
+  },
+  {
+    "id": "29",
+    "diam": "2.5",
+    "pitch": "0.35",
+    "pitch_diam_d2": "2.272668331",
+    "minor_diam_d1": "2.121113886",
+    "minor_diam_d3": "2.070595737"
+  },
+  {
+    "id": "30",
+    "diam": "3",
+    "pitch": "0.5",
+    "pitch_diam_d2": "2.675240474",
+    "minor_diam_d1": "2.458734123",
+    "minor_diam_d3": "2.386565339"
+  },
+  {
+    "id": "31",
+    "diam": "3",
+    "pitch": "0.35",
+    "pitch_diam_d2": "2.772668331",
+    "minor_diam_d1": "2.621113886",
+    "minor_diam_d3": "2.570595737"
+  },
+  {
+    "id": "32",
+    "diam": "3.5",
+    "pitch": "0.6",
+    "pitch_diam_d2": "3.110288568",
+    "minor_diam_d1": "2.850480947",
+    "minor_diam_d3": "2.763878407"
+  },
+  {
+    "id": "33",
+    "diam": "3.5",
+    "pitch": "0.35",
+    "pitch_diam_d2": "3.272668331",
+    "minor_diam_d1": "3.121113886",
+    "minor_diam_d3": "3.070595737"
+  },
+  {
+    "id": "34",
+    "diam": "4",
+    "pitch": "0.7",
+    "pitch_diam_d2": "3.545336663",
+    "minor_diam_d1": "3.242227772",
+    "minor_diam_d3": "3.141191475"
+  },
+  {
+    "id": "35",
+    "diam": "4",
+    "pitch": "0.5",
+    "pitch_diam_d2": "3.675240474",
+    "minor_diam_d1": "3.458734123",
+    "minor_diam_d3": "3.386565339"
+  },
+  {
+    "id": "36",
+    "diam": "4.5",
+    "pitch": "0.75",
+    "pitch_diam_d2": "4.01286071",
+    "minor_diam_d1": "3.688101184",
+    "minor_diam_d3": "3.579848009"
+  },
+  {
+    "id": "37",
+    "diam": "4.5",
+    "pitch": "0.5",
+    "pitch_diam_d2": "4.175240474",
+    "minor_diam_d1": "3.958734123",
+    "minor_diam_d3": "3.886565339"
+  },
+  {
+    "id": "38",
+    "diam": "5",
+    "pitch": "0.8",
+    "pitch_diam_d2": "4.480384758",
+    "minor_diam_d1": "4.133974596",
+    "minor_diam_d3": "4.018504542"
+  },
+  {
+    "id": "39",
+    "diam": "5",
+    "pitch": "0.5",
+    "pitch_diam_d2": "4.675240474",
+    "minor_diam_d1": "4.458734123",
+    "minor_diam_d3": "4.386565339"
+  },
+  {
+    "id": "40",
+    "diam": "5.5",
+    "pitch": "0.5",
+    "pitch_diam_d2": "5.175240474",
+    "minor_diam_d1": "4.958734123",
+    "minor_diam_d3": "4.886565339"
+  },
+  {
+    "id": "41",
+    "diam": "6",
+    "pitch": "1",
+    "pitch_diam_d2": "5.350480947",
+    "minor_diam_d1": "4.917468245",
+    "minor_diam_d3": "4.773130678"
+  },
+  {
+    "id": "42",
+    "diam": "6",
+    "pitch": "0.75",
+    "pitch_diam_d2": "5.51286071",
+    "minor_diam_d1": "5.188101184",
+    "minor_diam_d3": "5.079848009"
+  },
+  {
+    "id": "43",
+    "diam": "6",
+    "pitch": "0.5",
+    "pitch_diam_d2": "5.675240474",
+    "minor_diam_d1": "5.458734123",
+    "minor_diam_d3": "5.386565339"
+  },
+  {
+    "id": "44",
+    "diam": "7",
+    "pitch": "1",
+    "pitch_diam_d2": "6.350480947",
+    "minor_diam_d1": "5.917468245",
+    "minor_diam_d3": "5.773130678"
+  },
+  {
+    "id": "45",
+    "diam": "7",
+    "pitch": "0.75",
+    "pitch_diam_d2": "6.51286071",
+    "minor_diam_d1": "6.188101184",
+    "minor_diam_d3": "6.079848009"
+  },
+  {
+    "id": "46",
+    "diam": "7",
+    "pitch": "0.5",
+    "pitch_diam_d2": "6.675240474",
+    "minor_diam_d1": "6.458734123",
+    "minor_diam_d3": "6.386565339"
+  },
+  {
+    "id": "47",
+    "diam": "8",
+    "pitch": "1.25",
+    "pitch_diam_d2": "7.188101184",
+    "minor_diam_d1": "6.646835306",
+    "minor_diam_d3": "6.466413348"
+  },
+  {
+    "id": "48",
+    "diam": "8",
+    "pitch": "1",
+    "pitch_diam_d2": "7.350480947",
+    "minor_diam_d1": "6.917468245",
+    "minor_diam_d3": "6.773130678"
+  },
+  {
+    "id": "49",
+    "diam": "8",
+    "pitch": "0.75",
+    "pitch_diam_d2": "7.51286071",
+    "minor_diam_d1": "7.188101184",
+    "minor_diam_d3": "7.079848009"
+  },
+  {
+    "id": "50",
+    "diam": "8",
+    "pitch": "0.5",
+    "pitch_diam_d2": "7.675240474",
+    "minor_diam_d1": "7.458734123",
+    "minor_diam_d3": "7.386565339"
+  },
+  {
+    "id": "51",
+    "diam": "9",
+    "pitch": "1.25",
+    "pitch_diam_d2": "8.188101184",
+    "minor_diam_d1": "7.646835306",
+    "minor_diam_d3": "7.466413348"
+  },
+  {
+    "id": "52",
+    "diam": "9",
+    "pitch": "1",
+    "pitch_diam_d2": "8.350480947",
+    "minor_diam_d1": "7.917468245",
+    "minor_diam_d3": "7.773130678"
+  },
+  {
+    "id": "53",
+    "diam": "9",
+    "pitch": "0.75",
+    "pitch_diam_d2": "8.51286071",
+    "minor_diam_d1": "8.188101184",
+    "minor_diam_d3": "8.079848009"
+  },
+  {
+    "id": "54",
+    "diam": "9",
+    "pitch": "0.5",
+    "pitch_diam_d2": "8.675240474",
+    "minor_diam_d1": "8.458734123",
+    "minor_diam_d3": "8.386565339"
+  },
+  {
+    "id": "55",
+    "diam": "10",
+    "pitch": "1.5",
+    "pitch_diam_d2": "9.025721421",
+    "minor_diam_d1": "8.376202368",
+    "minor_diam_d3": "8.159696017"
+  },
+  {
+    "id": "56",
+    "diam": "10",
+    "pitch": "1.25",
+    "pitch_diam_d2": "9.188101184",
+    "minor_diam_d1": "8.646835306",
+    "minor_diam_d3": "8.466413348"
+  },
+  {
+    "id": "57",
+    "diam": "10",
+    "pitch": "1",
+    "pitch_diam_d2": "9.350480947",
+    "minor_diam_d1": "8.917468245",
+    "minor_diam_d3": "8.773130678"
+  },
+  {
+    "id": "58",
+    "diam": "10",
+    "pitch": "0.75",
+    "pitch_diam_d2": "9.51286071",
+    "minor_diam_d1": "9.188101184",
+    "minor_diam_d3": "9.079848009"
+  },
+  {
+    "id": "59",
+    "diam": "10",
+    "pitch": "0.5",
+    "pitch_diam_d2": "9.675240474",
+    "minor_diam_d1": "9.458734123",
+    "minor_diam_d3": "9.386565339"
+  },
+  {
+    "id": "60",
+    "diam": "11",
+    "pitch": "1.5",
+    "pitch_diam_d2": "10.02572142",
+    "minor_diam_d1": "9.376202368",
+    "minor_diam_d3": "9.159696017"
+  },
+  {
+    "id": "61",
+    "diam": "11",
+    "pitch": "1",
+    "pitch_diam_d2": "10.35048095",
+    "minor_diam_d1": "9.917468245",
+    "minor_diam_d3": "9.773130678"
+  },
+  {
+    "id": "62",
+    "diam": "11",
+    "pitch": "0.75",
+    "pitch_diam_d2": "10.51286071",
+    "minor_diam_d1": "10.18810118",
+    "minor_diam_d3": "10.07984801"
+  },
+  {
+    "id": "63",
+    "diam": "11",
+    "pitch": "0.5",
+    "pitch_diam_d2": "10.67524047",
+    "minor_diam_d1": "10.45873412",
+    "minor_diam_d3": "10.38656534"
+  },
+  {
+    "id": "64",
+    "diam": "12",
+    "pitch": "1.75",
+    "pitch_diam_d2": "10.86334166",
+    "minor_diam_d1": "10.10556943",
+    "minor_diam_d3": "9.852978687"
+  },
+  {
+    "id": "65",
+    "diam": "12",
+    "pitch": "1.5",
+    "pitch_diam_d2": "11.02572142",
+    "minor_diam_d1": "10.37620237",
+    "minor_diam_d3": "10.15969602"
+  },
+  {
+    "id": "66",
+    "diam": "12",
+    "pitch": "1.25",
+    "pitch_diam_d2": "11.18810118",
+    "minor_diam_d1": "10.64683531",
+    "minor_diam_d3": "10.46641335"
+  },
+  {
+    "id": "67",
+    "diam": "12",
+    "pitch": "1",
+    "pitch_diam_d2": "11.35048095",
+    "minor_diam_d1": "10.91746825",
+    "minor_diam_d3": "10.77313068"
+  },
+  {
+    "id": "68",
+    "diam": "12",
+    "pitch": "0.75",
+    "pitch_diam_d2": "11.51286071",
+    "minor_diam_d1": "11.18810118",
+    "minor_diam_d3": "11.07984801"
+  },
+  {
+    "id": "69",
+    "diam": "12",
+    "pitch": "0.5",
+    "pitch_diam_d2": "11.67524047",
+    "minor_diam_d1": "11.45873412",
+    "minor_diam_d3": "11.38656534"
+  },
+  {
+    "id": "70",
+    "diam": "14",
+    "pitch": "2",
+    "pitch_diam_d2": "12.70096189",
+    "minor_diam_d1": "11.83493649",
+    "minor_diam_d3": "11.54626136"
+  },
+  {
+    "id": "71",
+    "diam": "14",
+    "pitch": "1.5",
+    "pitch_diam_d2": "13.02572142",
+    "minor_diam_d1": "12.37620237",
+    "minor_diam_d3": "12.15969602"
+  },
+  {
+    "id": "72",
+    "diam": "14",
+    "pitch": "1.25",
+    "pitch_diam_d2": "13.18810118",
+    "minor_diam_d1": "12.64683531",
+    "minor_diam_d3": "12.46641335"
+  },
+  {
+    "id": "73",
+    "diam": "14",
+    "pitch": "1",
+    "pitch_diam_d2": "13.35048095",
+    "minor_diam_d1": "12.91746825",
+    "minor_diam_d3": "12.77313068"
+  },
+  {
+    "id": "74",
+    "diam": "14",
+    "pitch": "0.75",
+    "pitch_diam_d2": "13.51286071",
+    "minor_diam_d1": "13.18810118",
+    "minor_diam_d3": "13.07984801"
+  },
+  {
+    "id": "75",
+    "diam": "14",
+    "pitch": "0.5",
+    "pitch_diam_d2": "13.67524047",
+    "minor_diam_d1": "13.45873412",
+    "minor_diam_d3": "13.38656534"
+  },
+  {
+    "id": "76",
+    "diam": "15",
+    "pitch": "1.5",
+    "pitch_diam_d2": "14.02572142",
+    "minor_diam_d1": "13.37620237",
+    "minor_diam_d3": "13.15969602"
+  },
+  {
+    "id": "77",
+    "diam": "15",
+    "pitch": "1",
+    "pitch_diam_d2": "14.35048095",
+    "minor_diam_d1": "13.91746825",
+    "minor_diam_d3": "13.77313068"
+  },
+  {
+    "id": "78",
+    "diam": "16",
+    "pitch": "2",
+    "pitch_diam_d2": "14.70096189",
+    "minor_diam_d1": "13.83493649",
+    "minor_diam_d3": "13.54626136"
+  },
+  {
+    "id": "79",
+    "diam": "16",
+    "pitch": "1.5",
+    "pitch_diam_d2": "15.02572142",
+    "minor_diam_d1": "14.37620237",
+    "minor_diam_d3": "14.15969602"
+  },
+  {
+    "id": "80",
+    "diam": "16",
+    "pitch": "1",
+    "pitch_diam_d2": "15.35048095",
+    "minor_diam_d1": "14.91746825",
+    "minor_diam_d3": "14.77313068"
+  },
+  {
+    "id": "81",
+    "diam": "16",
+    "pitch": "0.75",
+    "pitch_diam_d2": "15.51286071",
+    "minor_diam_d1": "15.18810118",
+    "minor_diam_d3": "15.07984801"
+  },
+  {
+    "id": "82",
+    "diam": "16",
+    "pitch": "0.5",
+    "pitch_diam_d2": "15.67524047",
+    "minor_diam_d1": "15.45873412",
+    "minor_diam_d3": "15.38656534"
+  },
+  {
+    "id": "83",
+    "diam": "17",
+    "pitch": "1.5",
+    "pitch_diam_d2": "16.02572142",
+    "minor_diam_d1": "15.37620237",
+    "minor_diam_d3": "15.15969602"
+  },
+  {
+    "id": "84",
+    "diam": "17",
+    "pitch": "1",
+    "pitch_diam_d2": "16.35048095",
+    "minor_diam_d1": "15.91746825",
+    "minor_diam_d3": "15.77313068"
+  },
+  {
+    "id": "85",
+    "diam": "18",
+    "pitch": "2.5",
+    "pitch_diam_d2": "16.37620237",
+    "minor_diam_d1": "15.29367061",
+    "minor_diam_d3": "14.9328267"
+  },
+  {
+    "id": "86",
+    "diam": "18",
+    "pitch": "2",
+    "pitch_diam_d2": "16.70096189",
+    "minor_diam_d1": "15.83493649",
+    "minor_diam_d3": "15.54626136"
+  },
+  {
+    "id": "87",
+    "diam": "18",
+    "pitch": "1.5",
+    "pitch_diam_d2": "17.02572142",
+    "minor_diam_d1": "16.37620237",
+    "minor_diam_d3": "16.15969602"
+  },
+  {
+    "id": "88",
+    "diam": "18",
+    "pitch": "1",
+    "pitch_diam_d2": "17.35048095",
+    "minor_diam_d1": "16.91746825",
+    "minor_diam_d3": "16.77313068"
+  },
+  {
+    "id": "89",
+    "diam": "18",
+    "pitch": "0.75",
+    "pitch_diam_d2": "17.51286071",
+    "minor_diam_d1": "17.18810118",
+    "minor_diam_d3": "17.07984801"
+  },
+  {
+    "id": "90",
+    "diam": "18",
+    "pitch": "0.5",
+    "pitch_diam_d2": "17.67524047",
+    "minor_diam_d1": "17.45873412",
+    "minor_diam_d3": "17.38656534"
+  },
+  {
+    "id": "91",
+    "diam": "20",
+    "pitch": "2.5",
+    "pitch_diam_d2": "18.37620237",
+    "minor_diam_d1": "17.29367061",
+    "minor_diam_d3": "16.9328267"
+  },
+  {
+    "id": "92",
+    "diam": "20",
+    "pitch": "2",
+    "pitch_diam_d2": "18.70096189",
+    "minor_diam_d1": "17.83493649",
+    "minor_diam_d3": "17.54626136"
+  },
+  {
+    "id": "93",
+    "diam": "20",
+    "pitch": "1.5",
+    "pitch_diam_d2": "19.02572142",
+    "minor_diam_d1": "18.37620237",
+    "minor_diam_d3": "18.15969602"
+  },
+  {
+    "id": "94",
+    "diam": "20",
+    "pitch": "1",
+    "pitch_diam_d2": "19.35048095",
+    "minor_diam_d1": "18.91746825",
+    "minor_diam_d3": "18.77313068"
+  },
+  {
+    "id": "95",
+    "diam": "20",
+    "pitch": "0.75",
+    "pitch_diam_d2": "19.51286071",
+    "minor_diam_d1": "19.18810118",
+    "minor_diam_d3": "19.07984801"
+  },
+  {
+    "id": "96",
+    "diam": "20",
+    "pitch": "0.5",
+    "pitch_diam_d2": "19.67524047",
+    "minor_diam_d1": "19.45873412",
+    "minor_diam_d3": "19.38656534"
+  },
+  {
+    "id": "97",
+    "diam": "22",
+    "pitch": "2.5",
+    "pitch_diam_d2": "20.37620237",
+    "minor_diam_d1": "19.29367061",
+    "minor_diam_d3": "18.9328267"
+  },
+  {
+    "id": "98",
+    "diam": "22",
+    "pitch": "2",
+    "pitch_diam_d2": "20.70096189",
+    "minor_diam_d1": "19.83493649",
+    "minor_diam_d3": "19.54626136"
+  },
+  {
+    "id": "99",
+    "diam": "22",
+    "pitch": "1.5",
+    "pitch_diam_d2": "21.02572142",
+    "minor_diam_d1": "20.37620237",
+    "minor_diam_d3": "20.15969602"
+  },
+  {
+    "id": "100",
+    "diam": "22",
+    "pitch": "1",
+    "pitch_diam_d2": "21.35048095",
+    "minor_diam_d1": "20.91746825",
+    "minor_diam_d3": "20.77313068"
+  },
+  {
+    "id": "101",
+    "diam": "22",
+    "pitch": "0.75",
+    "pitch_diam_d2": "21.51286071",
+    "minor_diam_d1": "21.18810118",
+    "minor_diam_d3": "21.07984801"
+  },
+  {
+    "id": "102",
+    "diam": "22",
+    "pitch": "0.5",
+    "pitch_diam_d2": "21.67524047",
+    "minor_diam_d1": "21.45873412",
+    "minor_diam_d3": "21.38656534"
+  },
+  {
+    "id": "103",
+    "diam": "24",
+    "pitch": "3",
+    "pitch_diam_d2": "22.05144284",
+    "minor_diam_d1": "20.75240474",
+    "minor_diam_d3": "20.31939203"
+  },
+  {
+    "id": "104",
+    "diam": "24",
+    "pitch": "2",
+    "pitch_diam_d2": "22.70096189",
+    "minor_diam_d1": "21.83493649",
+    "minor_diam_d3": "21.54626136"
+  },
+  {
+    "id": "105",
+    "diam": "24",
+    "pitch": "1.5",
+    "pitch_diam_d2": "23.02572142",
+    "minor_diam_d1": "22.37620237",
+    "minor_diam_d3": "22.15969602"
+  },
+  {
+    "id": "106",
+    "diam": "24",
+    "pitch": "1",
+    "pitch_diam_d2": "23.35048095",
+    "minor_diam_d1": "22.91746825",
+    "minor_diam_d3": "22.77313068"
+  },
+  {
+    "id": "107",
+    "diam": "24",
+    "pitch": "0.75",
+    "pitch_diam_d2": "23.51286071",
+    "minor_diam_d1": "23.18810118",
+    "minor_diam_d3": "23.07984801"
+  },
+  {
+    "id": "108",
+    "diam": "25",
+    "pitch": "2",
+    "pitch_diam_d2": "23.70096189",
+    "minor_diam_d1": "22.83493649",
+    "minor_diam_d3": "22.54626136"
+  },
+  {
+    "id": "109",
+    "diam": "25",
+    "pitch": "1.5",
+    "pitch_diam_d2": "24.02572142",
+    "minor_diam_d1": "23.37620237",
+    "minor_diam_d3": "23.15969602"
+  },
+  {
+    "id": "110",
+    "diam": "25",
+    "pitch": "1",
+    "pitch_diam_d2": "24.35048095",
+    "minor_diam_d1": "23.91746825",
+    "minor_diam_d3": "23.77313068"
+  },
+  {
+    "id": "111",
+    "diam": "26",
+    "pitch": "1.5",
+    "pitch_diam_d2": "25.02572142",
+    "minor_diam_d1": "24.37620237",
+    "minor_diam_d3": "24.15969602"
+  },
+  {
+    "id": "112",
+    "diam": "27",
+    "pitch": "3",
+    "pitch_diam_d2": "25.05144284",
+    "minor_diam_d1": "23.75240474",
+    "minor_diam_d3": "23.31939203"
+  },
+  {
+    "id": "113",
+    "diam": "27",
+    "pitch": "2",
+    "pitch_diam_d2": "25.70096189",
+    "minor_diam_d1": "24.83493649",
+    "minor_diam_d3": "24.54626136"
+  },
+  {
+    "id": "114",
+    "diam": "27",
+    "pitch": "1.5",
+    "pitch_diam_d2": "26.02572142",
+    "minor_diam_d1": "25.37620237",
+    "minor_diam_d3": "25.15969602"
+  },
+  {
+    "id": "115",
+    "diam": "27",
+    "pitch": "1",
+    "pitch_diam_d2": "26.35048095",
+    "minor_diam_d1": "25.91746825",
+    "minor_diam_d3": "25.77313068"
+  },
+  {
+    "id": "116",
+    "diam": "27",
+    "pitch": "0.75",
+    "pitch_diam_d2": "26.51286071",
+    "minor_diam_d1": "26.18810118",
+    "minor_diam_d3": "26.07984801"
+  },
+  {
+    "id": "117",
+    "diam": "28",
+    "pitch": "2",
+    "pitch_diam_d2": "26.70096189",
+    "minor_diam_d1": "25.83493649",
+    "minor_diam_d3": "25.54626136"
+  },
+  {
+    "id": "118",
+    "diam": "28",
+    "pitch": "1.5",
+    "pitch_diam_d2": "27.02572142",
+    "minor_diam_d1": "26.37620237",
+    "minor_diam_d3": "26.15969602"
+  },
+  {
+    "id": "119",
+    "diam": "28",
+    "pitch": "1",
+    "pitch_diam_d2": "27.35048095",
+    "minor_diam_d1": "26.91746825",
+    "minor_diam_d3": "26.77313068"
+  },
+  {
+    "id": "120",
+    "diam": "30",
+    "pitch": "3.5",
+    "pitch_diam_d2": "27.72668331",
+    "minor_diam_d1": "26.21113886",
+    "minor_diam_d3": "25.70595737"
+  },
+  {
+    "id": "121",
+    "diam": "30",
+    "pitch": "3",
+    "pitch_diam_d2": "28.05144284",
+    "minor_diam_d1": "26.75240474",
+    "minor_diam_d3": "26.31939203"
+  },
+  {
+    "id": "122",
+    "diam": "30",
+    "pitch": "2",
+    "pitch_diam_d2": "28.70096189",
+    "minor_diam_d1": "27.83493649",
+    "minor_diam_d3": "27.54626136"
+  },
+  {
+    "id": "123",
+    "diam": "30",
+    "pitch": "1.5",
+    "pitch_diam_d2": "29.02572142",
+    "minor_diam_d1": "28.37620237",
+    "minor_diam_d3": "28.15969602"
+  },
+  {
+    "id": "124",
+    "diam": "30",
+    "pitch": "1",
+    "pitch_diam_d2": "29.35048095",
+    "minor_diam_d1": "28.91746825",
+    "minor_diam_d3": "28.77313068"
+  },
+  {
+    "id": "125",
+    "diam": "30",
+    "pitch": "0.75",
+    "pitch_diam_d2": "29.51286071",
+    "minor_diam_d1": "29.18810118",
+    "minor_diam_d3": "29.07984801"
+  },
+  {
+    "id": "126",
+    "diam": "32",
+    "pitch": "2",
+    "pitch_diam_d2": "30.70096189",
+    "minor_diam_d1": "29.83493649",
+    "minor_diam_d3": "29.54626136"
+  },
+  {
+    "id": "127",
+    "diam": "32",
+    "pitch": "1.5",
+    "pitch_diam_d2": "31.02572142",
+    "minor_diam_d1": "30.37620237",
+    "minor_diam_d3": "30.15969602"
+  },
+  {
+    "id": "128",
+    "diam": "33",
+    "pitch": "3.5",
+    "pitch_diam_d2": "30.72668331",
+    "minor_diam_d1": "29.21113886",
+    "minor_diam_d3": "28.70595737"
+  },
+  {
+    "id": "129",
+    "diam": "33",
+    "pitch": "3",
+    "pitch_diam_d2": "31.05144284",
+    "minor_diam_d1": "29.75240474",
+    "minor_diam_d3": "29.31939203"
+  },
+  {
+    "id": "130",
+    "diam": "33",
+    "pitch": "2",
+    "pitch_diam_d2": "31.70096189",
+    "minor_diam_d1": "30.83493649",
+    "minor_diam_d3": "30.54626136"
+  },
+  {
+    "id": "131",
+    "diam": "33",
+    "pitch": "1.5",
+    "pitch_diam_d2": "32.02572142",
+    "minor_diam_d1": "31.37620237",
+    "minor_diam_d3": "31.15969602"
+  },
+  {
+    "id": "132",
+    "diam": "33",
+    "pitch": "1",
+    "pitch_diam_d2": "32.35048095",
+    "minor_diam_d1": "31.91746825",
+    "minor_diam_d3": "31.77313068"
+  },
+  {
+    "id": "133",
+    "diam": "33",
+    "pitch": "0.75",
+    "pitch_diam_d2": "32.51286071",
+    "minor_diam_d1": "32.18810118",
+    "minor_diam_d3": "32.07984801"
+  },
+  {
+    "id": "134",
+    "diam": "35",
+    "pitch": "1.5",
+    "pitch_diam_d2": "34.02572142",
+    "minor_diam_d1": "33.37620237",
+    "minor_diam_d3": "33.15969602"
+  },
+  {
+    "id": "135",
+    "diam": "36",
+    "pitch": "4",
+    "pitch_diam_d2": "33.40192379",
+    "minor_diam_d1": "31.66987298",
+    "minor_diam_d3": "31.09252271"
+  },
+  {
+    "id": "136",
+    "diam": "36",
+    "pitch": "3",
+    "pitch_diam_d2": "34.05144284",
+    "minor_diam_d1": "32.75240474",
+    "minor_diam_d3": "32.31939203"
+  },
+  {
+    "id": "137",
+    "diam": "36",
+    "pitch": "2",
+    "pitch_diam_d2": "34.70096189",
+    "minor_diam_d1": "33.83493649",
+    "minor_diam_d3": "33.54626136"
+  },
+  {
+    "id": "138",
+    "diam": "36",
+    "pitch": "1.5",
+    "pitch_diam_d2": "35.02572142",
+    "minor_diam_d1": "34.37620237",
+    "minor_diam_d3": "34.15969602"
+  },
+  {
+    "id": "139",
+    "diam": "36",
+    "pitch": "1",
+    "pitch_diam_d2": "35.35048095",
+    "minor_diam_d1": "34.91746825",
+    "minor_diam_d3": "34.77313068"
+  },
+  {
+    "id": "140",
+    "diam": "38",
+    "pitch": "1.5",
+    "pitch_diam_d2": "37.02572142",
+    "minor_diam_d1": "36.37620237",
+    "minor_diam_d3": "36.15969602"
+  },
+  {
+    "id": "141",
+    "diam": "39",
+    "pitch": "4",
+    "pitch_diam_d2": "36.40192379",
+    "minor_diam_d1": "34.66987298",
+    "minor_diam_d3": "34.09252271"
+  },
+  {
+    "id": "142",
+    "diam": "39",
+    "pitch": "3",
+    "pitch_diam_d2": "37.05144284",
+    "minor_diam_d1": "35.75240474",
+    "minor_diam_d3": "35.31939203"
+  },
+  {
+    "id": "143",
+    "diam": "39",
+    "pitch": "2",
+    "pitch_diam_d2": "37.70096189",
+    "minor_diam_d1": "36.83493649",
+    "minor_diam_d3": "36.54626136"
+  },
+  {
+    "id": "144",
+    "diam": "39",
+    "pitch": "1.5",
+    "pitch_diam_d2": "38.02572142",
+    "minor_diam_d1": "37.37620237",
+    "minor_diam_d3": "37.15969602"
+  },
+  {
+    "id": "145",
+    "diam": "39",
+    "pitch": "1",
+    "pitch_diam_d2": "38.35048095",
+    "minor_diam_d1": "37.91746825",
+    "minor_diam_d3": "37.77313068"
+  },
+  {
+    "id": "146",
+    "diam": "40",
+    "pitch": "3",
+    "pitch_diam_d2": "38.05144284",
+    "minor_diam_d1": "36.75240474",
+    "minor_diam_d3": "36.31939203"
+  },
+  {
+    "id": "147",
+    "diam": "40",
+    "pitch": "2",
+    "pitch_diam_d2": "38.70096189",
+    "minor_diam_d1": "37.83493649",
+    "minor_diam_d3": "37.54626136"
+  },
+  {
+    "id": "148",
+    "diam": "40",
+    "pitch": "1.5",
+    "pitch_diam_d2": "39.02572142",
+    "minor_diam_d1": "38.37620237",
+    "minor_diam_d3": "38.15969602"
+  },
+  {
+    "id": "149",
+    "diam": "42",
+    "pitch": "4.5",
+    "pitch_diam_d2": "39.07716426",
+    "minor_diam_d1": "37.1286071",
+    "minor_diam_d3": "36.47908805"
+  },
+  {
+    "id": "150",
+    "diam": "42",
+    "pitch": "4",
+    "pitch_diam_d2": "39.40192379",
+    "minor_diam_d1": "37.66987298",
+    "minor_diam_d3": "37.09252271"
+  },
+  {
+    "id": "151",
+    "diam": "42",
+    "pitch": "3",
+    "pitch_diam_d2": "40.05144284",
+    "minor_diam_d1": "38.75240474",
+    "minor_diam_d3": "38.31939203"
+  },
+  {
+    "id": "152",
+    "diam": "42",
+    "pitch": "2",
+    "pitch_diam_d2": "40.70096189",
+    "minor_diam_d1": "39.83493649",
+    "minor_diam_d3": "39.54626136"
+  },
+  {
+    "id": "153",
+    "diam": "42",
+    "pitch": "1.5",
+    "pitch_diam_d2": "41.02572142",
+    "minor_diam_d1": "40.37620237",
+    "minor_diam_d3": "40.15969602"
+  },
+  {
+    "id": "154",
+    "diam": "42",
+    "pitch": "1",
+    "pitch_diam_d2": "41.35048095",
+    "minor_diam_d1": "40.91746825",
+    "minor_diam_d3": "40.77313068"
+  },
+  {
+    "id": "155",
+    "diam": "45",
+    "pitch": "4.5",
+    "pitch_diam_d2": "42.07716426",
+    "minor_diam_d1": "40.1286071",
+    "minor_diam_d3": "39.47908805"
+  },
+  {
+    "id": "156",
+    "diam": "45",
+    "pitch": "4",
+    "pitch_diam_d2": "42.40192379",
+    "minor_diam_d1": "40.66987298",
+    "minor_diam_d3": "40.09252271"
+  },
+  {
+    "id": "157",
+    "diam": "45",
+    "pitch": "3",
+    "pitch_diam_d2": "43.05144284",
+    "minor_diam_d1": "41.75240474",
+    "minor_diam_d3": "41.31939203"
+  },
+  {
+    "id": "158",
+    "diam": "45",
+    "pitch": "2",
+    "pitch_diam_d2": "43.70096189",
+    "minor_diam_d1": "42.83493649",
+    "minor_diam_d3": "42.54626136"
+  },
+  {
+    "id": "159",
+    "diam": "45",
+    "pitch": "1.5",
+    "pitch_diam_d2": "44.02572142",
+    "minor_diam_d1": "43.37620237",
+    "minor_diam_d3": "43.15969602"
+  },
+  {
+    "id": "160",
+    "diam": "45",
+    "pitch": "1",
+    "pitch_diam_d2": "44.35048095",
+    "minor_diam_d1": "43.91746825",
+    "minor_diam_d3": "43.77313068"
+  },
+  {
+    "id": "161",
+    "diam": "48",
+    "pitch": "5",
+    "pitch_diam_d2": "44.75240474",
+    "minor_diam_d1": "42.58734123",
+    "minor_diam_d3": "41.86565339"
+  },
+  {
+    "id": "162",
+    "diam": "48",
+    "pitch": "4",
+    "pitch_diam_d2": "45.40192379",
+    "minor_diam_d1": "43.66987298",
+    "minor_diam_d3": "43.09252271"
+  },
+  {
+    "id": "163",
+    "diam": "48",
+    "pitch": "3",
+    "pitch_diam_d2": "46.05144284",
+    "minor_diam_d1": "44.75240474",
+    "minor_diam_d3": "44.31939203"
+  },
+  {
+    "id": "164",
+    "diam": "48",
+    "pitch": "2",
+    "pitch_diam_d2": "46.70096189",
+    "minor_diam_d1": "45.83493649",
+    "minor_diam_d3": "45.54626136"
+  },
+  {
+    "id": "165",
+    "diam": "48",
+    "pitch": "1.5",
+    "pitch_diam_d2": "47.02572142",
+    "minor_diam_d1": "46.37620237",
+    "minor_diam_d3": "46.15969602"
+  },
+  {
+    "id": "166",
+    "diam": "48",
+    "pitch": "1",
+    "pitch_diam_d2": "47.35048095",
+    "minor_diam_d1": "46.91746825",
+    "minor_diam_d3": "46.77313068"
+  },
+  {
+    "id": "167",
+    "diam": "50",
+    "pitch": "3",
+    "pitch_diam_d2": "48.05144284",
+    "minor_diam_d1": "46.75240474",
+    "minor_diam_d3": "46.31939203"
+  },
+  {
+    "id": "168",
+    "diam": "50",
+    "pitch": "2",
+    "pitch_diam_d2": "48.70096189",
+    "minor_diam_d1": "47.83493649",
+    "minor_diam_d3": "47.54626136"
+  },
+  {
+    "id": "169",
+    "diam": "50",
+    "pitch": "1.5",
+    "pitch_diam_d2": "49.02572142",
+    "minor_diam_d1": "48.37620237",
+    "minor_diam_d3": "48.15969602"
+  },
+  {
+    "id": "170",
+    "diam": "52",
+    "pitch": "5",
+    "pitch_diam_d2": "48.75240474",
+    "minor_diam_d1": "46.58734123",
+    "minor_diam_d3": "45.86565339"
+  },
+  {
+    "id": "171",
+    "diam": "52",
+    "pitch": "4",
+    "pitch_diam_d2": "49.40192379",
+    "minor_diam_d1": "47.66987298",
+    "minor_diam_d3": "47.09252271"
+  },
+  {
+    "id": "172",
+    "diam": "52",
+    "pitch": "3",
+    "pitch_diam_d2": "50.05144284",
+    "minor_diam_d1": "48.75240474",
+    "minor_diam_d3": "48.31939203"
+  },
+  {
+    "id": "173",
+    "diam": "52",
+    "pitch": "2",
+    "pitch_diam_d2": "50.70096189",
+    "minor_diam_d1": "49.83493649",
+    "minor_diam_d3": "49.54626136"
+  },
+  {
+    "id": "174",
+    "diam": "52",
+    "pitch": "1.5",
+    "pitch_diam_d2": "51.02572142",
+    "minor_diam_d1": "50.37620237",
+    "minor_diam_d3": "50.15969602"
+  },
+  {
+    "id": "175",
+    "diam": "52",
+    "pitch": "1",
+    "pitch_diam_d2": "51.35048095",
+    "minor_diam_d1": "50.91746825",
+    "minor_diam_d3": "50.77313068"
+  },
+  {
+    "id": "176",
+    "diam": "55",
+    "pitch": "4",
+    "pitch_diam_d2": "52.40192379",
+    "minor_diam_d1": "50.66987298",
+    "minor_diam_d3": "50.09252271"
+  },
+  {
+    "id": "177",
+    "diam": "55",
+    "pitch": "3",
+    "pitch_diam_d2": "53.05144284",
+    "minor_diam_d1": "51.75240474",
+    "minor_diam_d3": "51.31939203"
+  },
+  {
+    "id": "178",
+    "diam": "55",
+    "pitch": "2",
+    "pitch_diam_d2": "53.70096189",
+    "minor_diam_d1": "52.83493649",
+    "minor_diam_d3": "52.54626136"
+  },
+  {
+    "id": "179",
+    "diam": "55",
+    "pitch": "1.5",
+    "pitch_diam_d2": "54.02572142",
+    "minor_diam_d1": "53.37620237",
+    "minor_diam_d3": "53.15969602"
+  },
+  {
+    "id": "180",
+    "diam": "56",
+    "pitch": "5.5",
+    "pitch_diam_d2": "52.42764521",
+    "minor_diam_d1": "50.04607535",
+    "minor_diam_d3": "49.25221873"
+  },
+  {
+    "id": "181",
+    "diam": "56",
+    "pitch": "4",
+    "pitch_diam_d2": "53.40192379",
+    "minor_diam_d1": "51.66987298",
+    "minor_diam_d3": "51.09252271"
+  },
+  {
+    "id": "182",
+    "diam": "56",
+    "pitch": "3",
+    "pitch_diam_d2": "54.05144284",
+    "minor_diam_d1": "52.75240474",
+    "minor_diam_d3": "52.31939203"
+  },
+  {
+    "id": "183",
+    "diam": "56",
+    "pitch": "2",
+    "pitch_diam_d2": "54.70096189",
+    "minor_diam_d1": "53.83493649",
+    "minor_diam_d3": "53.54626136"
+  },
+  {
+    "id": "184",
+    "diam": "56",
+    "pitch": "1.5",
+    "pitch_diam_d2": "55.02572142",
+    "minor_diam_d1": "54.37620237",
+    "minor_diam_d3": "54.15969602"
+  },
+  {
+    "id": "185",
+    "diam": "56",
+    "pitch": "1",
+    "pitch_diam_d2": "55.35048095",
+    "minor_diam_d1": "54.91746825",
+    "minor_diam_d3": "54.77313068"
+  },
+  {
+    "id": "186",
+    "diam": "58",
+    "pitch": "4",
+    "pitch_diam_d2": "55.40192379",
+    "minor_diam_d1": "53.66987298",
+    "minor_diam_d3": "53.09252271"
+  },
+  {
+    "id": "187",
+    "diam": "58",
+    "pitch": "3",
+    "pitch_diam_d2": "56.05144284",
+    "minor_diam_d1": "54.75240474",
+    "minor_diam_d3": "54.31939203"
+  },
+  {
+    "id": "188",
+    "diam": "58",
+    "pitch": "2",
+    "pitch_diam_d2": "56.70096189",
+    "minor_diam_d1": "55.83493649",
+    "minor_diam_d3": "55.54626136"
+  },
+  {
+    "id": "189",
+    "diam": "58",
+    "pitch": "1.5",
+    "pitch_diam_d2": "57.02572142",
+    "minor_diam_d1": "56.37620237",
+    "minor_diam_d3": "56.15969602"
+  },
+  {
+    "id": "190",
+    "diam": "60",
+    "pitch": "5.5",
+    "pitch_diam_d2": "56.42764521",
+    "minor_diam_d1": "54.04607535",
+    "minor_diam_d3": "53.25221873"
+  },
+  {
+    "id": "191",
+    "diam": "60",
+    "pitch": "4",
+    "pitch_diam_d2": "57.40192379",
+    "minor_diam_d1": "55.66987298",
+    "minor_diam_d3": "55.09252271"
+  },
+  {
+    "id": "192",
+    "diam": "60",
+    "pitch": "3",
+    "pitch_diam_d2": "58.05144284",
+    "minor_diam_d1": "56.75240474",
+    "minor_diam_d3": "56.31939203"
+  },
+  {
+    "id": "193",
+    "diam": "60",
+    "pitch": "2",
+    "pitch_diam_d2": "58.70096189",
+    "minor_diam_d1": "57.83493649",
+    "minor_diam_d3": "57.54626136"
+  },
+  {
+    "id": "194",
+    "diam": "60",
+    "pitch": "1.5",
+    "pitch_diam_d2": "59.02572142",
+    "minor_diam_d1": "58.37620237",
+    "minor_diam_d3": "58.15969602"
+  },
+  {
+    "id": "195",
+    "diam": "60",
+    "pitch": "1",
+    "pitch_diam_d2": "59.35048095",
+    "minor_diam_d1": "58.91746825",
+    "minor_diam_d3": "58.77313068"
+  },
+  {
+    "id": "196",
+    "diam": "62",
+    "pitch": "4",
+    "pitch_diam_d2": "59.40192379",
+    "minor_diam_d1": "57.66987298",
+    "minor_diam_d3": "57.09252271"
+  },
+  {
+    "id": "197",
+    "diam": "62",
+    "pitch": "3",
+    "pitch_diam_d2": "60.05144284",
+    "minor_diam_d1": "58.75240474",
+    "minor_diam_d3": "58.31939203"
+  },
+  {
+    "id": "198",
+    "diam": "62",
+    "pitch": "2",
+    "pitch_diam_d2": "60.70096189",
+    "minor_diam_d1": "59.83493649",
+    "minor_diam_d3": "59.54626136"
+  },
+  {
+    "id": "199",
+    "diam": "62",
+    "pitch": "1.5",
+    "pitch_diam_d2": "61.02572142",
+    "minor_diam_d1": "60.37620237",
+    "minor_diam_d3": "60.15969602"
+  },
+  {
+    "id": "200",
+    "diam": "64",
+    "pitch": "6",
+    "pitch_diam_d2": "60.10288568",
+    "minor_diam_d1": "57.50480947",
+    "minor_diam_d3": "56.63878407"
+  },
+  {
+    "id": "201",
+    "diam": "64",
+    "pitch": "4",
+    "pitch_diam_d2": "61.40192379",
+    "minor_diam_d1": "59.66987298",
+    "minor_diam_d3": "59.09252271"
+  },
+  {
+    "id": "202",
+    "diam": "64",
+    "pitch": "3",
+    "pitch_diam_d2": "62.05144284",
+    "minor_diam_d1": "60.75240474",
+    "minor_diam_d3": "60.31939203"
+  },
+  {
+    "id": "203",
+    "diam": "64",
+    "pitch": "2",
+    "pitch_diam_d2": "62.70096189",
+    "minor_diam_d1": "61.83493649",
+    "minor_diam_d3": "61.54626136"
+  },
+  {
+    "id": "204",
+    "diam": "64",
+    "pitch": "1.5",
+    "pitch_diam_d2": "63.02572142",
+    "minor_diam_d1": "62.37620237",
+    "minor_diam_d3": "62.15969602"
+  },
+  {
+    "id": "205",
+    "diam": "64",
+    "pitch": "1",
+    "pitch_diam_d2": "63.35048095",
+    "minor_diam_d1": "62.91746825",
+    "minor_diam_d3": "62.77313068"
+  },
+  {
+    "id": "206",
+    "diam": "65",
+    "pitch": "4",
+    "pitch_diam_d2": "62.40192379",
+    "minor_diam_d1": "60.66987298",
+    "minor_diam_d3": "60.09252271"
+  },
+  {
+    "id": "207",
+    "diam": "65",
+    "pitch": "3",
+    "pitch_diam_d2": "63.05144284",
+    "minor_diam_d1": "61.75240474",
+    "minor_diam_d3": "61.31939203"
+  },
+  {
+    "id": "208",
+    "diam": "65",
+    "pitch": "2",
+    "pitch_diam_d2": "63.70096189",
+    "minor_diam_d1": "62.83493649",
+    "minor_diam_d3": "62.54626136"
+  },
+  {
+    "id": "209",
+    "diam": "65",
+    "pitch": "1.5",
+    "pitch_diam_d2": "64.02572142",
+    "minor_diam_d1": "63.37620237",
+    "minor_diam_d3": "63.15969602"
+  },
+  {
+    "id": "210",
+    "diam": "68",
+    "pitch": "6",
+    "pitch_diam_d2": "64.10288568",
+    "minor_diam_d1": "61.50480947",
+    "minor_diam_d3": "60.63878407"
+  },
+  {
+    "id": "211",
+    "diam": "68",
+    "pitch": "4",
+    "pitch_diam_d2": "65.40192379",
+    "minor_diam_d1": "63.66987298",
+    "minor_diam_d3": "63.09252271"
+  },
+  {
+    "id": "212",
+    "diam": "68",
+    "pitch": "3",
+    "pitch_diam_d2": "66.05144284",
+    "minor_diam_d1": "64.75240474",
+    "minor_diam_d3": "64.31939203"
+  },
+  {
+    "id": "213",
+    "diam": "68",
+    "pitch": "2",
+    "pitch_diam_d2": "66.70096189",
+    "minor_diam_d1": "65.83493649",
+    "minor_diam_d3": "65.54626136"
+  },
+  {
+    "id": "214",
+    "diam": "68",
+    "pitch": "1.5",
+    "pitch_diam_d2": "67.02572142",
+    "minor_diam_d1": "66.37620237",
+    "minor_diam_d3": "66.15969602"
+  },
+  {
+    "id": "215",
+    "diam": "68",
+    "pitch": "1",
+    "pitch_diam_d2": "67.35048095",
+    "minor_diam_d1": "66.91746825",
+    "minor_diam_d3": "66.77313068"
+  },
+  {
+    "id": "216",
+    "diam": "70",
+    "pitch": "6",
+    "pitch_diam_d2": "66.10288568",
+    "minor_diam_d1": "63.50480947",
+    "minor_diam_d3": "62.63878407"
+  },
+  {
+    "id": "217",
+    "diam": "70",
+    "pitch": "4",
+    "pitch_diam_d2": "67.40192379",
+    "minor_diam_d1": "65.66987298",
+    "minor_diam_d3": "65.09252271"
+  },
+  {
+    "id": "218",
+    "diam": "70",
+    "pitch": "3",
+    "pitch_diam_d2": "68.05144284",
+    "minor_diam_d1": "66.75240474",
+    "minor_diam_d3": "66.31939203"
+  },
+  {
+    "id": "219",
+    "diam": "70",
+    "pitch": "2",
+    "pitch_diam_d2": "68.70096189",
+    "minor_diam_d1": "67.83493649",
+    "minor_diam_d3": "67.54626136"
+  },
+  {
+    "id": "220",
+    "diam": "70",
+    "pitch": "1.5",
+    "pitch_diam_d2": "69.02572142",
+    "minor_diam_d1": "68.37620237",
+    "minor_diam_d3": "68.15969602"
+  },
+  {
+    "id": "221",
+    "diam": "72",
+    "pitch": "6",
+    "pitch_diam_d2": "68.10288568",
+    "minor_diam_d1": "65.50480947",
+    "minor_diam_d3": "64.63878407"
+  },
+  {
+    "id": "222",
+    "diam": "72",
+    "pitch": "4",
+    "pitch_diam_d2": "69.40192379",
+    "minor_diam_d1": "67.66987298",
+    "minor_diam_d3": "67.09252271"
+  },
+  {
+    "id": "223",
+    "diam": "72",
+    "pitch": "3",
+    "pitch_diam_d2": "70.05144284",
+    "minor_diam_d1": "68.75240474",
+    "minor_diam_d3": "68.31939203"
+  },
+  {
+    "id": "224",
+    "diam": "72",
+    "pitch": "2",
+    "pitch_diam_d2": "70.70096189",
+    "minor_diam_d1": "69.83493649",
+    "minor_diam_d3": "69.54626136"
+  },
+  {
+    "id": "225",
+    "diam": "72",
+    "pitch": "1.5",
+    "pitch_diam_d2": "71.02572142",
+    "minor_diam_d1": "70.37620237",
+    "minor_diam_d3": "70.15969602"
+  },
+  {
+    "id": "226",
+    "diam": "72",
+    "pitch": "1",
+    "pitch_diam_d2": "71.35048095",
+    "minor_diam_d1": "70.91746825",
+    "minor_diam_d3": "70.77313068"
+  },
+  {
+    "id": "227",
+    "diam": "75",
+    "pitch": "4",
+    "pitch_diam_d2": "72.40192379",
+    "minor_diam_d1": "70.66987298",
+    "minor_diam_d3": "70.09252271"
+  },
+  {
+    "id": "228",
+    "diam": "75",
+    "pitch": "3",
+    "pitch_diam_d2": "73.05144284",
+    "minor_diam_d1": "71.75240474",
+    "minor_diam_d3": "71.31939203"
+  },
+  {
+    "id": "229",
+    "diam": "75",
+    "pitch": "2",
+    "pitch_diam_d2": "73.70096189",
+    "minor_diam_d1": "72.83493649",
+    "minor_diam_d3": "72.54626136"
+  },
+  {
+    "id": "230",
+    "diam": "75",
+    "pitch": "1.5",
+    "pitch_diam_d2": "74.02572142",
+    "minor_diam_d1": "73.37620237",
+    "minor_diam_d3": "73.15969602"
+  },
+  {
+    "id": "231",
+    "diam": "76",
+    "pitch": "6",
+    "pitch_diam_d2": "72.10288568",
+    "minor_diam_d1": "69.50480947",
+    "minor_diam_d3": "68.63878407"
+  },
+  {
+    "id": "232",
+    "diam": "76",
+    "pitch": "4",
+    "pitch_diam_d2": "73.40192379",
+    "minor_diam_d1": "71.66987298",
+    "minor_diam_d3": "71.09252271"
+  },
+  {
+    "id": "233",
+    "diam": "76",
+    "pitch": "3",
+    "pitch_diam_d2": "74.05144284",
+    "minor_diam_d1": "72.75240474",
+    "minor_diam_d3": "72.31939203"
+  },
+  {
+    "id": "234",
+    "diam": "76",
+    "pitch": "2",
+    "pitch_diam_d2": "74.70096189",
+    "minor_diam_d1": "73.83493649",
+    "minor_diam_d3": "73.54626136"
+  },
+  {
+    "id": "235",
+    "diam": "76",
+    "pitch": "1.5",
+    "pitch_diam_d2": "75.02572142",
+    "minor_diam_d1": "74.37620237",
+    "minor_diam_d3": "74.15969602"
+  },
+  {
+    "id": "236",
+    "diam": "76",
+    "pitch": "1",
+    "pitch_diam_d2": "75.35048095",
+    "minor_diam_d1": "74.91746825",
+    "minor_diam_d3": "74.77313068"
+  },
+  {
+    "id": "237",
+    "diam": "78",
+    "pitch": "2",
+    "pitch_diam_d2": "76.70096189",
+    "minor_diam_d1": "75.83493649",
+    "minor_diam_d3": "75.54626136"
+  },
+  {
+    "id": "238",
+    "diam": "80",
+    "pitch": "6",
+    "pitch_diam_d2": "76.10288568",
+    "minor_diam_d1": "73.50480947",
+    "minor_diam_d3": "72.63878407"
+  },
+  {
+    "id": "239",
+    "diam": "80",
+    "pitch": "4",
+    "pitch_diam_d2": "77.40192379",
+    "minor_diam_d1": "75.66987298",
+    "minor_diam_d3": "75.09252271"
+  },
+  {
+    "id": "240",
+    "diam": "80",
+    "pitch": "3",
+    "pitch_diam_d2": "78.05144284",
+    "minor_diam_d1": "76.75240474",
+    "minor_diam_d3": "76.31939203"
+  },
+  {
+    "id": "241",
+    "diam": "80",
+    "pitch": "2",
+    "pitch_diam_d2": "78.70096189",
+    "minor_diam_d1": "77.83493649",
+    "minor_diam_d3": "77.54626136"
+  },
+  {
+    "id": "242",
+    "diam": "80",
+    "pitch": "1.5",
+    "pitch_diam_d2": "79.02572142",
+    "minor_diam_d1": "78.37620237",
+    "minor_diam_d3": "78.15969602"
+  },
+  {
+    "id": "243",
+    "diam": "80",
+    "pitch": "1",
+    "pitch_diam_d2": "79.35048095",
+    "minor_diam_d1": "78.91746825",
+    "minor_diam_d3": "78.77313068"
+  },
+  {
+    "id": "244",
+    "diam": "82",
+    "pitch": "2",
+    "pitch_diam_d2": "80.70096189",
+    "minor_diam_d1": "79.83493649",
+    "minor_diam_d3": "79.54626136"
+  },
+  {
+    "id": "245",
+    "diam": "85",
+    "pitch": "6",
+    "pitch_diam_d2": "81.10288568",
+    "minor_diam_d1": "78.50480947",
+    "minor_diam_d3": "77.63878407"
+  },
+  {
+    "id": "246",
+    "diam": "85",
+    "pitch": "4",
+    "pitch_diam_d2": "82.40192379",
+    "minor_diam_d1": "80.66987298",
+    "minor_diam_d3": "80.09252271"
+  },
+  {
+    "id": "247",
+    "diam": "85",
+    "pitch": "3",
+    "pitch_diam_d2": "83.05144284",
+    "minor_diam_d1": "81.75240474",
+    "minor_diam_d3": "81.31939203"
+  },
+  {
+    "id": "248",
+    "diam": "85",
+    "pitch": "2",
+    "pitch_diam_d2": "83.70096189",
+    "minor_diam_d1": "82.83493649",
+    "minor_diam_d3": "82.54626136"
+  },
+  {
+    "id": "249",
+    "diam": "85",
+    "pitch": "1.5",
+    "pitch_diam_d2": "84.02572142",
+    "minor_diam_d1": "83.37620237",
+    "minor_diam_d3": "83.15969602"
+  },
+  {
+    "id": "250",
+    "diam": "90",
+    "pitch": "6",
+    "pitch_diam_d2": "86.10288568",
+    "minor_diam_d1": "83.50480947",
+    "minor_diam_d3": "82.63878407"
+  },
+  {
+    "id": "251",
+    "diam": "90",
+    "pitch": "4",
+    "pitch_diam_d2": "87.40192379",
+    "minor_diam_d1": "85.66987298",
+    "minor_diam_d3": "85.09252271"
+  },
+  {
+    "id": "252",
+    "diam": "90",
+    "pitch": "3",
+    "pitch_diam_d2": "88.05144284",
+    "minor_diam_d1": "86.75240474",
+    "minor_diam_d3": "86.31939203"
+  },
+  {
+    "id": "253",
+    "diam": "90",
+    "pitch": "2",
+    "pitch_diam_d2": "88.70096189",
+    "minor_diam_d1": "87.83493649",
+    "minor_diam_d3": "87.54626136"
+  },
+  {
+    "id": "254",
+    "diam": "90",
+    "pitch": "1.5",
+    "pitch_diam_d2": "89.02572142",
+    "minor_diam_d1": "88.37620237",
+    "minor_diam_d3": "88.15969602"
+  },
+  {
+    "id": "255",
+    "diam": "95",
+    "pitch": "6",
+    "pitch_diam_d2": "91.10288568",
+    "minor_diam_d1": "88.50480947",
+    "minor_diam_d3": "87.63878407"
+  },
+  {
+    "id": "256",
+    "diam": "95",
+    "pitch": "4",
+    "pitch_diam_d2": "92.40192379",
+    "minor_diam_d1": "90.66987298",
+    "minor_diam_d3": "90.09252271"
+  },
+  {
+    "id": "257",
+    "diam": "95",
+    "pitch": "3",
+    "pitch_diam_d2": "93.05144284",
+    "minor_diam_d1": "91.75240474",
+    "minor_diam_d3": "91.31939203"
+  },
+  {
+    "id": "258",
+    "diam": "95",
+    "pitch": "2",
+    "pitch_diam_d2": "93.70096189",
+    "minor_diam_d1": "92.83493649",
+    "minor_diam_d3": "92.54626136"
+  },
+  {
+    "id": "259",
+    "diam": "95",
+    "pitch": "1.5",
+    "pitch_diam_d2": "94.02572142",
+    "minor_diam_d1": "93.37620237",
+    "minor_diam_d3": "93.15969602"
+  },
+  {
+    "id": "260",
+    "diam": "100",
+    "pitch": "6",
+    "pitch_diam_d2": "96.10288568",
+    "minor_diam_d1": "93.50480947",
+    "minor_diam_d3": "92.63878407"
+  },
+  {
+    "id": "261",
+    "diam": "100",
+    "pitch": "4",
+    "pitch_diam_d2": "97.40192379",
+    "minor_diam_d1": "95.66987298",
+    "minor_diam_d3": "95.09252271"
+  },
+  {
+    "id": "262",
+    "diam": "100",
+    "pitch": "3",
+    "pitch_diam_d2": "98.05144284",
+    "minor_diam_d1": "96.75240474",
+    "minor_diam_d3": "96.31939203"
+  },
+  {
+    "id": "263",
+    "diam": "100",
+    "pitch": "2",
+    "pitch_diam_d2": "98.70096189",
+    "minor_diam_d1": "97.83493649",
+    "minor_diam_d3": "97.54626136"
+  },
+  {
+    "id": "264",
+    "diam": "100",
+    "pitch": "1.5",
+    "pitch_diam_d2": "99.02572142",
+    "minor_diam_d1": "98.37620237",
+    "minor_diam_d3": "98.15969602"
+  },
+  {
+    "id": "265",
+    "diam": "105",
+    "pitch": "6",
+    "pitch_diam_d2": "101.1028857",
+    "minor_diam_d1": "98.50480947",
+    "minor_diam_d3": "97.63878407"
+  },
+  {
+    "id": "266",
+    "diam": "105",
+    "pitch": "4",
+    "pitch_diam_d2": "102.4019238",
+    "minor_diam_d1": "100.669873",
+    "minor_diam_d3": "100.0925227"
+  },
+  {
+    "id": "267",
+    "diam": "105",
+    "pitch": "3",
+    "pitch_diam_d2": "103.0514428",
+    "minor_diam_d1": "101.7524047",
+    "minor_diam_d3": "101.319392"
+  },
+  {
+    "id": "268",
+    "diam": "105",
+    "pitch": "2",
+    "pitch_diam_d2": "103.7009619",
+    "minor_diam_d1": "102.8349365",
+    "minor_diam_d3": "102.5462614"
+  },
+  {
+    "id": "269",
+    "diam": "105",
+    "pitch": "1.5",
+    "pitch_diam_d2": "104.0257214",
+    "minor_diam_d1": "103.3762024",
+    "minor_diam_d3": "103.159696"
+  },
+  {
+    "id": "270",
+    "diam": "110",
+    "pitch": "6",
+    "pitch_diam_d2": "106.1028857",
+    "minor_diam_d1": "103.5048095",
+    "minor_diam_d3": "102.6387841"
+  },
+  {
+    "id": "271",
+    "diam": "110",
+    "pitch": "4",
+    "pitch_diam_d2": "107.4019238",
+    "minor_diam_d1": "105.669873",
+    "minor_diam_d3": "105.0925227"
+  },
+  {
+    "id": "272",
+    "diam": "110",
+    "pitch": "3",
+    "pitch_diam_d2": "108.0514428",
+    "minor_diam_d1": "106.7524047",
+    "minor_diam_d3": "106.319392"
+  },
+  {
+    "id": "273",
+    "diam": "110",
+    "pitch": "2",
+    "pitch_diam_d2": "108.7009619",
+    "minor_diam_d1": "107.8349365",
+    "minor_diam_d3": "107.5462614"
+  },
+  {
+    "id": "274",
+    "diam": "110",
+    "pitch": "1.5",
+    "pitch_diam_d2": "109.0257214",
+    "minor_diam_d1": "108.3762024",
+    "minor_diam_d3": "108.159696"
+  },
+  {
+    "id": "275",
+    "diam": "115",
+    "pitch": "6",
+    "pitch_diam_d2": "111.1028857",
+    "minor_diam_d1": "108.5048095",
+    "minor_diam_d3": "107.6387841"
+  },
+  {
+    "id": "276",
+    "diam": "115",
+    "pitch": "4",
+    "pitch_diam_d2": "112.4019238",
+    "minor_diam_d1": "110.669873",
+    "minor_diam_d3": "110.0925227"
+  },
+  {
+    "id": "277",
+    "diam": "115",
+    "pitch": "3",
+    "pitch_diam_d2": "113.0514428",
+    "minor_diam_d1": "111.7524047",
+    "minor_diam_d3": "111.319392"
+  },
+  {
+    "id": "278",
+    "diam": "115",
+    "pitch": "2",
+    "pitch_diam_d2": "113.7009619",
+    "minor_diam_d1": "112.8349365",
+    "minor_diam_d3": "112.5462614"
+  },
+  {
+    "id": "279",
+    "diam": "115",
+    "pitch": "1.5",
+    "pitch_diam_d2": "114.0257214",
+    "minor_diam_d1": "113.3762024",
+    "minor_diam_d3": "113.159696"
+  },
+  {
+    "id": "280",
+    "diam": "120",
+    "pitch": "6",
+    "pitch_diam_d2": "116.1028857",
+    "minor_diam_d1": "113.5048095",
+    "minor_diam_d3": "112.6387841"
+  },
+  {
+    "id": "281",
+    "diam": "120",
+    "pitch": "4",
+    "pitch_diam_d2": "117.4019238",
+    "minor_diam_d1": "115.669873",
+    "minor_diam_d3": "115.0925227"
+  },
+  {
+    "id": "282",
+    "diam": "120",
+    "pitch": "3",
+    "pitch_diam_d2": "118.0514428",
+    "minor_diam_d1": "116.7524047",
+    "minor_diam_d3": "116.319392"
+  },
+  {
+    "id": "283",
+    "diam": "120",
+    "pitch": "2",
+    "pitch_diam_d2": "118.7009619",
+    "minor_diam_d1": "117.8349365",
+    "minor_diam_d3": "117.5462614"
+  },
+  {
+    "id": "284",
+    "diam": "120",
+    "pitch": "1.5",
+    "pitch_diam_d2": "119.0257214",
+    "minor_diam_d1": "118.3762024",
+    "minor_diam_d3": "118.159696"
+  },
+  {
+    "id": "285",
+    "diam": "125",
+    "pitch": "8",
+    "pitch_diam_d2": "119.8038476",
+    "minor_diam_d1": "116.339746",
+    "minor_diam_d3": "115.1850454"
+  },
+  {
+    "id": "286",
+    "diam": "125",
+    "pitch": "6",
+    "pitch_diam_d2": "121.1028857",
+    "minor_diam_d1": "118.5048095",
+    "minor_diam_d3": "117.6387841"
+  },
+  {
+    "id": "287",
+    "diam": "125",
+    "pitch": "4",
+    "pitch_diam_d2": "122.4019238",
+    "minor_diam_d1": "120.669873",
+    "minor_diam_d3": "120.0925227"
+  },
+  {
+    "id": "288",
+    "diam": "125",
+    "pitch": "3",
+    "pitch_diam_d2": "123.0514428",
+    "minor_diam_d1": "121.7524047",
+    "minor_diam_d3": "121.319392"
+  },
+  {
+    "id": "289",
+    "diam": "125",
+    "pitch": "2",
+    "pitch_diam_d2": "123.7009619",
+    "minor_diam_d1": "122.8349365",
+    "minor_diam_d3": "122.5462614"
+  },
+  {
+    "id": "290",
+    "diam": "125",
+    "pitch": "1.5",
+    "pitch_diam_d2": "124.0257214",
+    "minor_diam_d1": "123.3762024",
+    "minor_diam_d3": "123.159696"
+  },
+  {
+    "id": "291",
+    "diam": "130",
+    "pitch": "8",
+    "pitch_diam_d2": "124.8038476",
+    "minor_diam_d1": "121.339746",
+    "minor_diam_d3": "120.1850454"
+  },
+  {
+    "id": "292",
+    "diam": "130",
+    "pitch": "6",
+    "pitch_diam_d2": "126.1028857",
+    "minor_diam_d1": "123.5048095",
+    "minor_diam_d3": "122.6387841"
+  },
+  {
+    "id": "293",
+    "diam": "130",
+    "pitch": "4",
+    "pitch_diam_d2": "127.4019238",
+    "minor_diam_d1": "125.669873",
+    "minor_diam_d3": "125.0925227"
+  },
+  {
+    "id": "294",
+    "diam": "130",
+    "pitch": "3",
+    "pitch_diam_d2": "128.0514428",
+    "minor_diam_d1": "126.7524047",
+    "minor_diam_d3": "126.319392"
+  },
+  {
+    "id": "295",
+    "diam": "130",
+    "pitch": "2",
+    "pitch_diam_d2": "128.7009619",
+    "minor_diam_d1": "127.8349365",
+    "minor_diam_d3": "127.5462614"
+  },
+  {
+    "id": "296",
+    "diam": "130",
+    "pitch": "1.5",
+    "pitch_diam_d2": "129.0257214",
+    "minor_diam_d1": "128.3762024",
+    "minor_diam_d3": "128.159696"
+  },
+  {
+    "id": "297",
+    "diam": "135",
+    "pitch": "6",
+    "pitch_diam_d2": "131.1028857",
+    "minor_diam_d1": "128.5048095",
+    "minor_diam_d3": "127.6387841"
+  },
+  {
+    "id": "298",
+    "diam": "135",
+    "pitch": "4",
+    "pitch_diam_d2": "132.4019238",
+    "minor_diam_d1": "130.669873",
+    "minor_diam_d3": "130.0925227"
+  },
+  {
+    "id": "299",
+    "diam": "135",
+    "pitch": "3",
+    "pitch_diam_d2": "133.0514428",
+    "minor_diam_d1": "131.7524047",
+    "minor_diam_d3": "131.319392"
+  },
+  {
+    "id": "300",
+    "diam": "135",
+    "pitch": "2",
+    "pitch_diam_d2": "133.7009619",
+    "minor_diam_d1": "132.8349365",
+    "minor_diam_d3": "132.5462614"
+  },
+  {
+    "id": "301",
+    "diam": "135",
+    "pitch": "1.5",
+    "pitch_diam_d2": "134.0257214",
+    "minor_diam_d1": "133.3762024",
+    "minor_diam_d3": "133.159696"
+  },
+  {
+    "id": "302",
+    "diam": "140",
+    "pitch": "8",
+    "pitch_diam_d2": "134.8038476",
+    "minor_diam_d1": "131.339746",
+    "minor_diam_d3": "130.1850454"
+  },
+  {
+    "id": "303",
+    "diam": "140",
+    "pitch": "6",
+    "pitch_diam_d2": "136.1028857",
+    "minor_diam_d1": "133.5048095",
+    "minor_diam_d3": "132.6387841"
+  },
+  {
+    "id": "304",
+    "diam": "140",
+    "pitch": "4",
+    "pitch_diam_d2": "137.4019238",
+    "minor_diam_d1": "135.669873",
+    "minor_diam_d3": "135.0925227"
+  },
+  {
+    "id": "305",
+    "diam": "140",
+    "pitch": "3",
+    "pitch_diam_d2": "138.0514428",
+    "minor_diam_d1": "136.7524047",
+    "minor_diam_d3": "136.319392"
+  },
+  {
+    "id": "306",
+    "diam": "140",
+    "pitch": "2",
+    "pitch_diam_d2": "138.7009619",
+    "minor_diam_d1": "137.8349365",
+    "minor_diam_d3": "137.5462614"
+  },
+  {
+    "id": "307",
+    "diam": "140",
+    "pitch": "1.5",
+    "pitch_diam_d2": "139.0257214",
+    "minor_diam_d1": "138.3762024",
+    "minor_diam_d3": "138.159696"
+  },
+  {
+    "id": "308",
+    "diam": "145",
+    "pitch": "6",
+    "pitch_diam_d2": "141.1028857",
+    "minor_diam_d1": "138.5048095",
+    "minor_diam_d3": "137.6387841"
+  },
+  {
+    "id": "309",
+    "diam": "145",
+    "pitch": "4",
+    "pitch_diam_d2": "142.4019238",
+    "minor_diam_d1": "140.669873",
+    "minor_diam_d3": "140.0925227"
+  },
+  {
+    "id": "310",
+    "diam": "145",
+    "pitch": "3",
+    "pitch_diam_d2": "143.0514428",
+    "minor_diam_d1": "141.7524047",
+    "minor_diam_d3": "141.319392"
+  },
+  {
+    "id": "311",
+    "diam": "145",
+    "pitch": "2",
+    "pitch_diam_d2": "143.7009619",
+    "minor_diam_d1": "142.8349365",
+    "minor_diam_d3": "142.5462614"
+  },
+  {
+    "id": "312",
+    "diam": "145",
+    "pitch": "1.5",
+    "pitch_diam_d2": "144.0257214",
+    "minor_diam_d1": "143.3762024",
+    "minor_diam_d3": "143.159696"
+  },
+  {
+    "id": "313",
+    "diam": "150",
+    "pitch": "8",
+    "pitch_diam_d2": "144.8038476",
+    "minor_diam_d1": "141.339746",
+    "minor_diam_d3": "140.1850454"
+  },
+  {
+    "id": "314",
+    "diam": "150",
+    "pitch": "6",
+    "pitch_diam_d2": "146.1028857",
+    "minor_diam_d1": "143.5048095",
+    "minor_diam_d3": "142.6387841"
+  },
+  {
+    "id": "315",
+    "diam": "150",
+    "pitch": "4",
+    "pitch_diam_d2": "147.4019238",
+    "minor_diam_d1": "145.669873",
+    "minor_diam_d3": "145.0925227"
+  },
+  {
+    "id": "316",
+    "diam": "150",
+    "pitch": "3",
+    "pitch_diam_d2": "148.0514428",
+    "minor_diam_d1": "146.7524047",
+    "minor_diam_d3": "146.319392"
+  },
+  {
+    "id": "317",
+    "diam": "150",
+    "pitch": "2",
+    "pitch_diam_d2": "148.7009619",
+    "minor_diam_d1": "147.8349365",
+    "minor_diam_d3": "147.5462614"
+  },
+  {
+    "id": "318",
+    "diam": "150",
+    "pitch": "1.5",
+    "pitch_diam_d2": "149.0257214",
+    "minor_diam_d1": "148.3762024",
+    "minor_diam_d3": "148.159696"
+  },
+  {
+    "id": "319",
+    "diam": "155",
+    "pitch": "6",
+    "pitch_diam_d2": "151.1028857",
+    "minor_diam_d1": "148.5048095",
+    "minor_diam_d3": "147.6387841"
+  },
+  {
+    "id": "320",
+    "diam": "155",
+    "pitch": "4",
+    "pitch_diam_d2": "152.4019238",
+    "minor_diam_d1": "150.669873",
+    "minor_diam_d3": "150.0925227"
+  },
+  {
+    "id": "321",
+    "diam": "155",
+    "pitch": "3",
+    "pitch_diam_d2": "153.0514428",
+    "minor_diam_d1": "151.7524047",
+    "minor_diam_d3": "151.319392"
+  },
+  {
+    "id": "322",
+    "diam": "155",
+    "pitch": "2",
+    "pitch_diam_d2": "153.7009619",
+    "minor_diam_d1": "152.8349365",
+    "minor_diam_d3": "152.5462614"
+  },
+  {
+    "id": "323",
+    "diam": "160",
+    "pitch": "8",
+    "pitch_diam_d2": "154.8038476",
+    "minor_diam_d1": "151.339746",
+    "minor_diam_d3": "150.1850454"
+  },
+  {
+    "id": "324",
+    "diam": "160",
+    "pitch": "6",
+    "pitch_diam_d2": "156.1028857",
+    "minor_diam_d1": "153.5048095",
+    "minor_diam_d3": "152.6387841"
+  },
+  {
+    "id": "325",
+    "diam": "160",
+    "pitch": "4",
+    "pitch_diam_d2": "157.4019238",
+    "minor_diam_d1": "155.669873",
+    "minor_diam_d3": "155.0925227"
+  },
+  {
+    "id": "326",
+    "diam": "160",
+    "pitch": "3",
+    "pitch_diam_d2": "158.0514428",
+    "minor_diam_d1": "156.7524047",
+    "minor_diam_d3": "156.319392"
+  },
+  {
+    "id": "327",
+    "diam": "160",
+    "pitch": "2",
+    "pitch_diam_d2": "158.7009619",
+    "minor_diam_d1": "157.8349365",
+    "minor_diam_d3": "157.5462614"
+  },
+  {
+    "id": "328",
+    "diam": "165",
+    "pitch": "6",
+    "pitch_diam_d2": "161.1028857",
+    "minor_diam_d1": "158.5048095",
+    "minor_diam_d3": "157.6387841"
+  },
+  {
+    "id": "329",
+    "diam": "165",
+    "pitch": "4",
+    "pitch_diam_d2": "162.4019238",
+    "minor_diam_d1": "160.669873",
+    "minor_diam_d3": "160.0925227"
+  },
+  {
+    "id": "330",
+    "diam": "165",
+    "pitch": "3",
+    "pitch_diam_d2": "163.0514428",
+    "minor_diam_d1": "161.7524047",
+    "minor_diam_d3": "161.319392"
+  },
+  {
+    "id": "331",
+    "diam": "165",
+    "pitch": "2",
+    "pitch_diam_d2": "163.7009619",
+    "minor_diam_d1": "162.8349365",
+    "minor_diam_d3": "162.5462614"
+  },
+  {
+    "id": "332",
+    "diam": "170",
+    "pitch": "8",
+    "pitch_diam_d2": "164.8038476",
+    "minor_diam_d1": "161.339746",
+    "minor_diam_d3": "160.1850454"
+  },
+  {
+    "id": "333",
+    "diam": "170",
+    "pitch": "6",
+    "pitch_diam_d2": "166.1028857",
+    "minor_diam_d1": "163.5048095",
+    "minor_diam_d3": "162.6387841"
+  },
+  {
+    "id": "334",
+    "diam": "170",
+    "pitch": "4",
+    "pitch_diam_d2": "167.4019238",
+    "minor_diam_d1": "165.669873",
+    "minor_diam_d3": "165.0925227"
+  },
+  {
+    "id": "335",
+    "diam": "170",
+    "pitch": "3",
+    "pitch_diam_d2": "168.0514428",
+    "minor_diam_d1": "166.7524047",
+    "minor_diam_d3": "166.319392"
+  },
+  {
+    "id": "336",
+    "diam": "170",
+    "pitch": "2",
+    "pitch_diam_d2": "168.7009619",
+    "minor_diam_d1": "167.8349365",
+    "minor_diam_d3": "167.5462614"
+  },
+  {
+    "id": "337",
+    "diam": "175",
+    "pitch": "6",
+    "pitch_diam_d2": "171.1028857",
+    "minor_diam_d1": "168.5048095",
+    "minor_diam_d3": "167.6387841"
+  },
+  {
+    "id": "338",
+    "diam": "175",
+    "pitch": "4",
+    "pitch_diam_d2": "172.4019238",
+    "minor_diam_d1": "170.669873",
+    "minor_diam_d3": "170.0925227"
+  },
+  {
+    "id": "339",
+    "diam": "175",
+    "pitch": "3",
+    "pitch_diam_d2": "173.0514428",
+    "minor_diam_d1": "171.7524047",
+    "minor_diam_d3": "171.319392"
+  },
+  {
+    "id": "340",
+    "diam": "175",
+    "pitch": "2",
+    "pitch_diam_d2": "173.7009619",
+    "minor_diam_d1": "172.8349365",
+    "minor_diam_d3": "172.5462614"
+  },
+  {
+    "id": "341",
+    "diam": "180",
+    "pitch": "8",
+    "pitch_diam_d2": "174.8038476",
+    "minor_diam_d1": "171.339746",
+    "minor_diam_d3": "170.1850454"
+  },
+  {
+    "id": "342",
+    "diam": "180",
+    "pitch": "6",
+    "pitch_diam_d2": "176.1028857",
+    "minor_diam_d1": "173.5048095",
+    "minor_diam_d3": "172.6387841"
+  },
+  {
+    "id": "343",
+    "diam": "180",
+    "pitch": "4",
+    "pitch_diam_d2": "177.4019238",
+    "minor_diam_d1": "175.669873",
+    "minor_diam_d3": "175.0925227"
+  },
+  {
+    "id": "344",
+    "diam": "180",
+    "pitch": "3",
+    "pitch_diam_d2": "178.0514428",
+    "minor_diam_d1": "176.7524047",
+    "minor_diam_d3": "176.319392"
+  },
+  {
+    "id": "345",
+    "diam": "180",
+    "pitch": "2",
+    "pitch_diam_d2": "178.7009619",
+    "minor_diam_d1": "177.8349365",
+    "minor_diam_d3": "177.5462614"
+  },
+  {
+    "id": "346",
+    "diam": "185",
+    "pitch": "6",
+    "pitch_diam_d2": "181.1028857",
+    "minor_diam_d1": "178.5048095",
+    "minor_diam_d3": "177.6387841"
+  },
+  {
+    "id": "347",
+    "diam": "185",
+    "pitch": "4",
+    "pitch_diam_d2": "182.4019238",
+    "minor_diam_d1": "180.669873",
+    "minor_diam_d3": "180.0925227"
+  },
+  {
+    "id": "348",
+    "diam": "185",
+    "pitch": "3",
+    "pitch_diam_d2": "183.0514428",
+    "minor_diam_d1": "181.7524047",
+    "minor_diam_d3": "181.319392"
+  },
+  {
+    "id": "349",
+    "diam": "185",
+    "pitch": "2",
+    "pitch_diam_d2": "183.7009619",
+    "minor_diam_d1": "182.8349365",
+    "minor_diam_d3": "182.5462614"
+  },
+  {
+    "id": "350",
+    "diam": "190",
+    "pitch": "8",
+    "pitch_diam_d2": "184.8038476",
+    "minor_diam_d1": "181.339746",
+    "minor_diam_d3": "180.1850454"
+  },
+  {
+    "id": "351",
+    "diam": "190",
+    "pitch": "6",
+    "pitch_diam_d2": "186.1028857",
+    "minor_diam_d1": "183.5048095",
+    "minor_diam_d3": "182.6387841"
+  },
+  {
+    "id": "352",
+    "diam": "190",
+    "pitch": "4",
+    "pitch_diam_d2": "187.4019238",
+    "minor_diam_d1": "185.669873",
+    "minor_diam_d3": "185.0925227"
+  },
+  {
+    "id": "353",
+    "diam": "190",
+    "pitch": "3",
+    "pitch_diam_d2": "188.0514428",
+    "minor_diam_d1": "186.7524047",
+    "minor_diam_d3": "186.319392"
+  },
+  {
+    "id": "354",
+    "diam": "190",
+    "pitch": "2",
+    "pitch_diam_d2": "188.7009619",
+    "minor_diam_d1": "187.8349365",
+    "minor_diam_d3": "187.5462614"
+  },
+  {
+    "id": "355",
+    "diam": "195",
+    "pitch": "6",
+    "pitch_diam_d2": "191.1028857",
+    "minor_diam_d1": "188.5048095",
+    "minor_diam_d3": "187.6387841"
+  },
+  {
+    "id": "356",
+    "diam": "195",
+    "pitch": "4",
+    "pitch_diam_d2": "192.4019238",
+    "minor_diam_d1": "190.669873",
+    "minor_diam_d3": "190.0925227"
+  },
+  {
+    "id": "357",
+    "diam": "195",
+    "pitch": "3",
+    "pitch_diam_d2": "193.0514428",
+    "minor_diam_d1": "191.7524047",
+    "minor_diam_d3": "191.319392"
+  },
+  {
+    "id": "358",
+    "diam": "195",
+    "pitch": "2",
+    "pitch_diam_d2": "193.7009619",
+    "minor_diam_d1": "192.8349365",
+    "minor_diam_d3": "192.5462614"
+  },
+  {
+    "id": "359",
+    "diam": "200",
+    "pitch": "8",
+    "pitch_diam_d2": "194.8038476",
+    "minor_diam_d1": "191.339746",
+    "minor_diam_d3": "190.1850454"
+  },
+  {
+    "id": "360",
+    "diam": "200",
+    "pitch": "6",
+    "pitch_diam_d2": "196.1028857",
+    "minor_diam_d1": "193.5048095",
+    "minor_diam_d3": "192.6387841"
+  },
+  {
+    "id": "361",
+    "diam": "200",
+    "pitch": "4",
+    "pitch_diam_d2": "197.4019238",
+    "minor_diam_d1": "195.669873",
+    "minor_diam_d3": "195.0925227"
+  },
+  {
+    "id": "362",
+    "diam": "200",
+    "pitch": "3",
+    "pitch_diam_d2": "198.0514428",
+    "minor_diam_d1": "196.7524047",
+    "minor_diam_d3": "196.319392"
+  },
+  {
+    "id": "363",
+    "diam": "200",
+    "pitch": "2",
+    "pitch_diam_d2": "198.7009619",
+    "minor_diam_d1": "197.8349365",
+    "minor_diam_d3": "197.5462614"
+  },
+  {
+    "id": "364",
+    "diam": "205",
+    "pitch": "6",
+    "pitch_diam_d2": "201.1028857",
+    "minor_diam_d1": "198.5048095",
+    "minor_diam_d3": "197.6387841"
+  },
+  {
+    "id": "365",
+    "diam": "205",
+    "pitch": "4",
+    "pitch_diam_d2": "202.4019238",
+    "minor_diam_d1": "200.669873",
+    "minor_diam_d3": "200.0925227"
+  },
+  {
+    "id": "366",
+    "diam": "205",
+    "pitch": "3",
+    "pitch_diam_d2": "203.0514428",
+    "minor_diam_d1": "201.7524047",
+    "minor_diam_d3": "201.319392"
+  },
+  {
+    "id": "367",
+    "diam": "210",
+    "pitch": "8",
+    "pitch_diam_d2": "204.8038476",
+    "minor_diam_d1": "201.339746",
+    "minor_diam_d3": "200.1850454"
+  },
+  {
+    "id": "368",
+    "diam": "210",
+    "pitch": "6",
+    "pitch_diam_d2": "206.1028857",
+    "minor_diam_d1": "203.5048095",
+    "minor_diam_d3": "202.6387841"
+  },
+  {
+    "id": "369",
+    "diam": "210",
+    "pitch": "4",
+    "pitch_diam_d2": "207.4019238",
+    "minor_diam_d1": "205.669873",
+    "minor_diam_d3": "205.0925227"
+  },
+  {
+    "id": "370",
+    "diam": "210",
+    "pitch": "3",
+    "pitch_diam_d2": "208.0514428",
+    "minor_diam_d1": "206.7524047",
+    "minor_diam_d3": "206.319392"
+  },
+  {
+    "id": "371",
+    "diam": "215",
+    "pitch": "6",
+    "pitch_diam_d2": "211.1028857",
+    "minor_diam_d1": "208.5048095",
+    "minor_diam_d3": "207.6387841"
+  },
+  {
+    "id": "372",
+    "diam": "215",
+    "pitch": "4",
+    "pitch_diam_d2": "212.4019238",
+    "minor_diam_d1": "210.669873",
+    "minor_diam_d3": "210.0925227"
+  },
+  {
+    "id": "373",
+    "diam": "215",
+    "pitch": "3",
+    "pitch_diam_d2": "213.0514428",
+    "minor_diam_d1": "211.7524047",
+    "minor_diam_d3": "211.319392"
+  },
+  {
+    "id": "374",
+    "diam": "220",
+    "pitch": "8",
+    "pitch_diam_d2": "214.8038476",
+    "minor_diam_d1": "211.339746",
+    "minor_diam_d3": "210.1850454"
+  },
+  {
+    "id": "375",
+    "diam": "220",
+    "pitch": "6",
+    "pitch_diam_d2": "216.1028857",
+    "minor_diam_d1": "213.5048095",
+    "minor_diam_d3": "212.6387841"
+  },
+  {
+    "id": "376",
+    "diam": "220",
+    "pitch": "4",
+    "pitch_diam_d2": "217.4019238",
+    "minor_diam_d1": "215.669873",
+    "minor_diam_d3": "215.0925227"
+  },
+  {
+    "id": "377",
+    "diam": "220",
+    "pitch": "3",
+    "pitch_diam_d2": "218.0514428",
+    "minor_diam_d1": "216.7524047",
+    "minor_diam_d3": "216.319392"
+  },
+  {
+    "id": "378",
+    "diam": "225",
+    "pitch": "6",
+    "pitch_diam_d2": "221.1028857",
+    "minor_diam_d1": "218.5048095",
+    "minor_diam_d3": "217.6387841"
+  },
+  {
+    "id": "379",
+    "diam": "225",
+    "pitch": "4",
+    "pitch_diam_d2": "222.4019238",
+    "minor_diam_d1": "220.669873",
+    "minor_diam_d3": "220.0925227"
+  },
+  {
+    "id": "380",
+    "diam": "225",
+    "pitch": "3",
+    "pitch_diam_d2": "223.0514428",
+    "minor_diam_d1": "221.7524047",
+    "minor_diam_d3": "221.319392"
+  },
+  {
+    "id": "381",
+    "diam": "230",
+    "pitch": "8",
+    "pitch_diam_d2": "224.8038476",
+    "minor_diam_d1": "221.339746",
+    "minor_diam_d3": "220.1850454"
+  },
+  {
+    "id": "382",
+    "diam": "230",
+    "pitch": "6",
+    "pitch_diam_d2": "226.1028857",
+    "minor_diam_d1": "223.5048095",
+    "minor_diam_d3": "222.6387841"
+  },
+  {
+    "id": "383",
+    "diam": "230",
+    "pitch": "4",
+    "pitch_diam_d2": "227.4019238",
+    "minor_diam_d1": "225.669873",
+    "minor_diam_d3": "225.0925227"
+  },
+  {
+    "id": "384",
+    "diam": "230",
+    "pitch": "3",
+    "pitch_diam_d2": "228.0514428",
+    "minor_diam_d1": "226.7524047",
+    "minor_diam_d3": "226.319392"
+  },
+  {
+    "id": "385",
+    "diam": "235",
+    "pitch": "6",
+    "pitch_diam_d2": "231.1028857",
+    "minor_diam_d1": "228.5048095",
+    "minor_diam_d3": "227.6387841"
+  },
+  {
+    "id": "386",
+    "diam": "235",
+    "pitch": "4",
+    "pitch_diam_d2": "232.4019238",
+    "minor_diam_d1": "230.669873",
+    "minor_diam_d3": "230.0925227"
+  },
+  {
+    "id": "387",
+    "diam": "235",
+    "pitch": "3",
+    "pitch_diam_d2": "233.0514428",
+    "minor_diam_d1": "231.7524047",
+    "minor_diam_d3": "231.319392"
+  },
+  {
+    "id": "388",
+    "diam": "240",
+    "pitch": "8",
+    "pitch_diam_d2": "234.8038476",
+    "minor_diam_d1": "231.339746",
+    "minor_diam_d3": "230.1850454"
+  },
+  {
+    "id": "389",
+    "diam": "240",
+    "pitch": "6",
+    "pitch_diam_d2": "236.1028857",
+    "minor_diam_d1": "233.5048095",
+    "minor_diam_d3": "232.6387841"
+  },
+  {
+    "id": "390",
+    "diam": "240",
+    "pitch": "4",
+    "pitch_diam_d2": "237.4019238",
+    "minor_diam_d1": "235.669873",
+    "minor_diam_d3": "235.0925227"
+  },
+  {
+    "id": "391",
+    "diam": "240",
+    "pitch": "3",
+    "pitch_diam_d2": "238.0514428",
+    "minor_diam_d1": "236.7524047",
+    "minor_diam_d3": "236.319392"
+  },
+  {
+    "id": "392",
+    "diam": "245",
+    "pitch": "6",
+    "pitch_diam_d2": "241.1028857",
+    "minor_diam_d1": "238.5048095",
+    "minor_diam_d3": "237.6387841"
+  },
+  {
+    "id": "393",
+    "diam": "245",
+    "pitch": "4",
+    "pitch_diam_d2": "242.4019238",
+    "minor_diam_d1": "240.669873",
+    "minor_diam_d3": "240.0925227"
+  },
+  {
+    "id": "394",
+    "diam": "245",
+    "pitch": "3",
+    "pitch_diam_d2": "243.0514428",
+    "minor_diam_d1": "241.7524047",
+    "minor_diam_d3": "241.319392"
+  },
+  {
+    "id": "395",
+    "diam": "250",
+    "pitch": "8",
+    "pitch_diam_d2": "244.8038476",
+    "minor_diam_d1": "241.339746",
+    "minor_diam_d3": "240.1850454"
+  },
+  {
+    "id": "396",
+    "diam": "250",
+    "pitch": "6",
+    "pitch_diam_d2": "246.1028857",
+    "minor_diam_d1": "243.5048095",
+    "minor_diam_d3": "242.6387841"
+  },
+  {
+    "id": "397",
+    "diam": "250",
+    "pitch": "4",
+    "pitch_diam_d2": "247.4019238",
+    "minor_diam_d1": "245.669873",
+    "minor_diam_d3": "245.0925227"
+  },
+  {
+    "id": "398",
+    "diam": "250",
+    "pitch": "3",
+    "pitch_diam_d2": "248.0514428",
+    "minor_diam_d1": "246.7524047",
+    "minor_diam_d3": "246.319392"
+  },
+  {
+    "id": "399",
+    "diam": "255",
+    "pitch": "6",
+    "pitch_diam_d2": "251.1028857",
+    "minor_diam_d1": "248.5048095",
+    "minor_diam_d3": "247.6387841"
+  },
+  {
+    "id": "400",
+    "diam": "255",
+    "pitch": "4",
+    "pitch_diam_d2": "252.4019238",
+    "minor_diam_d1": "250.669873",
+    "minor_diam_d3": "250.0925227"
+  },
+  {
+    "id": "401",
+    "diam": "255",
+    "pitch": "3",
+    "pitch_diam_d2": "253.0514428",
+    "minor_diam_d1": "251.7524047",
+    "minor_diam_d3": "251.319392"
+  },
+  {
+    "id": "402",
+    "diam": "260",
+    "pitch": "8",
+    "pitch_diam_d2": "254.8038476",
+    "minor_diam_d1": "251.339746",
+    "minor_diam_d3": "250.1850454"
+  },
+  {
+    "id": "403",
+    "diam": "260",
+    "pitch": "6",
+    "pitch_diam_d2": "256.1028857",
+    "minor_diam_d1": "253.5048095",
+    "minor_diam_d3": "252.6387841"
+  },
+  {
+    "id": "404",
+    "diam": "260",
+    "pitch": "4",
+    "pitch_diam_d2": "257.4019238",
+    "minor_diam_d1": "255.669873",
+    "minor_diam_d3": "255.0925227"
+  },
+  {
+    "id": "405",
+    "diam": "260",
+    "pitch": "3",
+    "pitch_diam_d2": "258.0514428",
+    "minor_diam_d1": "256.7524047",
+    "minor_diam_d3": "256.319392"
+  },
+  {
+    "id": "406",
+    "diam": "265",
+    "pitch": "6",
+    "pitch_diam_d2": "261.1028857",
+    "minor_diam_d1": "258.5048095",
+    "minor_diam_d3": "257.6387841"
+  },
+  {
+    "id": "407",
+    "diam": "265",
+    "pitch": "4",
+    "pitch_diam_d2": "262.4019238",
+    "minor_diam_d1": "260.669873",
+    "minor_diam_d3": "260.0925227"
+  },
+  {
+    "id": "408",
+    "diam": "265",
+    "pitch": "3",
+    "pitch_diam_d2": "263.0514428",
+    "minor_diam_d1": "261.7524047",
+    "minor_diam_d3": "261.319392"
+  },
+  {
+    "id": "409",
+    "diam": "270",
+    "pitch": "8",
+    "pitch_diam_d2": "264.8038476",
+    "minor_diam_d1": "261.339746",
+    "minor_diam_d3": "260.1850454"
+  },
+  {
+    "id": "410",
+    "diam": "270",
+    "pitch": "6",
+    "pitch_diam_d2": "266.1028857",
+    "minor_diam_d1": "263.5048095",
+    "minor_diam_d3": "262.6387841"
+  },
+  {
+    "id": "411",
+    "diam": "270",
+    "pitch": "4",
+    "pitch_diam_d2": "267.4019238",
+    "minor_diam_d1": "265.669873",
+    "minor_diam_d3": "265.0925227"
+  },
+  {
+    "id": "412",
+    "diam": "270",
+    "pitch": "3",
+    "pitch_diam_d2": "268.0514428",
+    "minor_diam_d1": "266.7524047",
+    "minor_diam_d3": "266.319392"
+  },
+  {
+    "id": "413",
+    "diam": "275",
+    "pitch": "6",
+    "pitch_diam_d2": "271.1028857",
+    "minor_diam_d1": "268.5048095",
+    "minor_diam_d3": "267.6387841"
+  },
+  {
+    "id": "414",
+    "diam": "275",
+    "pitch": "4",
+    "pitch_diam_d2": "272.4019238",
+    "minor_diam_d1": "270.669873",
+    "minor_diam_d3": "270.0925227"
+  },
+  {
+    "id": "415",
+    "diam": "275",
+    "pitch": "3",
+    "pitch_diam_d2": "273.0514428",
+    "minor_diam_d1": "271.7524047",
+    "minor_diam_d3": "271.319392"
+  },
+  {
+    "id": "416",
+    "diam": "280",
+    "pitch": "8",
+    "pitch_diam_d2": "274.8038476",
+    "minor_diam_d1": "271.339746",
+    "minor_diam_d3": "270.1850454"
+  },
+  {
+    "id": "417",
+    "diam": "280",
+    "pitch": "6",
+    "pitch_diam_d2": "276.1028857",
+    "minor_diam_d1": "273.5048095",
+    "minor_diam_d3": "272.6387841"
+  },
+  {
+    "id": "418",
+    "diam": "280",
+    "pitch": "4",
+    "pitch_diam_d2": "277.4019238",
+    "minor_diam_d1": "275.669873",
+    "minor_diam_d3": "275.0925227"
+  },
+  {
+    "id": "419",
+    "diam": "280",
+    "pitch": "3",
+    "pitch_diam_d2": "278.0514428",
+    "minor_diam_d1": "276.7524047",
+    "minor_diam_d3": "276.319392"
+  },
+  {
+    "id": "420",
+    "diam": "285",
+    "pitch": "6",
+    "pitch_diam_d2": "281.1028857",
+    "minor_diam_d1": "278.5048095",
+    "minor_diam_d3": "277.6387841"
+  },
+  {
+    "id": "421",
+    "diam": "285",
+    "pitch": "4",
+    "pitch_diam_d2": "282.4019238",
+    "minor_diam_d1": "280.669873",
+    "minor_diam_d3": "280.0925227"
+  },
+  {
+    "id": "422",
+    "diam": "285",
+    "pitch": "3",
+    "pitch_diam_d2": "283.0514428",
+    "minor_diam_d1": "281.7524047",
+    "minor_diam_d3": "281.319392"
+  },
+  {
+    "id": "423",
+    "diam": "290",
+    "pitch": "8",
+    "pitch_diam_d2": "284.8038476",
+    "minor_diam_d1": "281.339746",
+    "minor_diam_d3": "280.1850454"
+  },
+  {
+    "id": "424",
+    "diam": "290",
+    "pitch": "6",
+    "pitch_diam_d2": "286.1028857",
+    "minor_diam_d1": "283.5048095",
+    "minor_diam_d3": "282.6387841"
+  },
+  {
+    "id": "425",
+    "diam": "290",
+    "pitch": "4",
+    "pitch_diam_d2": "287.4019238",
+    "minor_diam_d1": "285.669873",
+    "minor_diam_d3": "285.0925227"
+  },
+  {
+    "id": "426",
+    "diam": "290",
+    "pitch": "3",
+    "pitch_diam_d2": "288.0514428",
+    "minor_diam_d1": "286.7524047",
+    "minor_diam_d3": "286.319392"
+  },
+  {
+    "id": "427",
+    "diam": "295",
+    "pitch": "6",
+    "pitch_diam_d2": "291.1028857",
+    "minor_diam_d1": "288.5048095",
+    "minor_diam_d3": "287.6387841"
+  },
+  {
+    "id": "428",
+    "diam": "295",
+    "pitch": "4",
+    "pitch_diam_d2": "292.4019238",
+    "minor_diam_d1": "290.669873",
+    "minor_diam_d3": "290.0925227"
+  },
+  {
+    "id": "429",
+    "diam": "295",
+    "pitch": "3",
+    "pitch_diam_d2": "293.0514428",
+    "minor_diam_d1": "291.7524047",
+    "minor_diam_d3": "291.319392"
+  },
+  {
+    "id": "430",
+    "diam": "300",
+    "pitch": "8",
+    "pitch_diam_d2": "294.8038476",
+    "minor_diam_d1": "291.339746",
+    "minor_diam_d3": "290.1850454"
+  },
+  {
+    "id": "431",
+    "diam": "300",
+    "pitch": "6",
+    "pitch_diam_d2": "296.1028857",
+    "minor_diam_d1": "293.5048095",
+    "minor_diam_d3": "292.6387841"
+  },
+  {
+    "id": "432",
+    "diam": "300",
+    "pitch": "4",
+    "pitch_diam_d2": "297.4019238",
+    "minor_diam_d1": "295.669873",
+    "minor_diam_d3": "295.0925227"
+  },
+  {
+    "id": "433",
+    "diam": "300",
+    "pitch": "3",
+    "pitch_diam_d2": "298.0514428",
+    "minor_diam_d1": "296.7524047",
+    "minor_diam_d3": "296.319392"
+  },
+  {
+    "id": "434",
+    "diam": "310",
+    "pitch": "6",
+    "pitch_diam_d2": "306.1028857",
+    "minor_diam_d1": "303.5048095",
+    "minor_diam_d3": "302.6387841"
+  },
+  {
+    "id": "435",
+    "diam": "310",
+    "pitch": "4",
+    "pitch_diam_d2": "307.4019238",
+    "minor_diam_d1": "305.669873",
+    "minor_diam_d3": "305.0925227"
+  },
+  {
+    "id": "436",
+    "diam": "320",
+    "pitch": "8",
+    "pitch_diam_d2": "314.8038476",
+    "minor_diam_d1": "311.339746",
+    "minor_diam_d3": "310.1850454"
+  },
+  {
+    "id": "437",
+    "diam": "320",
+    "pitch": "6",
+    "pitch_diam_d2": "316.1028857",
+    "minor_diam_d1": "313.5048095",
+    "minor_diam_d3": "312.6387841"
+  },
+  {
+    "id": "438",
+    "diam": "320",
+    "pitch": "4",
+    "pitch_diam_d2": "317.4019238",
+    "minor_diam_d1": "315.669873",
+    "minor_diam_d3": "315.0925227"
+  },
+  {
+    "id": "439",
+    "diam": "330",
+    "pitch": "6",
+    "pitch_diam_d2": "326.1028857",
+    "minor_diam_d1": "323.5048095",
+    "minor_diam_d3": "322.6387841"
+  },
+  {
+    "id": "440",
+    "diam": "330",
+    "pitch": "4",
+    "pitch_diam_d2": "327.4019238",
+    "minor_diam_d1": "325.669873",
+    "minor_diam_d3": "325.0925227"
+  },
+  {
+    "id": "441",
+    "diam": "340",
+    "pitch": "8",
+    "pitch_diam_d2": "334.8038476",
+    "minor_diam_d1": "331.339746",
+    "minor_diam_d3": "330.1850454"
+  },
+  {
+    "id": "442",
+    "diam": "340",
+    "pitch": "6",
+    "pitch_diam_d2": "336.1028857",
+    "minor_diam_d1": "333.5048095",
+    "minor_diam_d3": "332.6387841"
+  },
+  {
+    "id": "443",
+    "diam": "340",
+    "pitch": "4",
+    "pitch_diam_d2": "337.4019238",
+    "minor_diam_d1": "335.669873",
+    "minor_diam_d3": "335.0925227"
+  },
+  {
+    "id": "444",
+    "diam": "350",
+    "pitch": "6",
+    "pitch_diam_d2": "346.1028857",
+    "minor_diam_d1": "343.5048095",
+    "minor_diam_d3": "342.6387841"
+  },
+  {
+    "id": "445",
+    "diam": "350",
+    "pitch": "4",
+    "pitch_diam_d2": "347.4019238",
+    "minor_diam_d1": "345.669873",
+    "minor_diam_d3": "345.0925227"
+  },
+  {
+    "id": "446",
+    "diam": "360",
+    "pitch": "8",
+    "pitch_diam_d2": "354.8038476",
+    "minor_diam_d1": "351.339746",
+    "minor_diam_d3": "350.1850454"
+  },
+  {
+    "id": "447",
+    "diam": "360",
+    "pitch": "6",
+    "pitch_diam_d2": "356.1028857",
+    "minor_diam_d1": "353.5048095",
+    "minor_diam_d3": "352.6387841"
+  },
+  {
+    "id": "448",
+    "diam": "360",
+    "pitch": "4",
+    "pitch_diam_d2": "357.4019238",
+    "minor_diam_d1": "355.669873",
+    "minor_diam_d3": "355.0925227"
+  },
+  {
+    "id": "449",
+    "diam": "370",
+    "pitch": "6",
+    "pitch_diam_d2": "366.1028857",
+    "minor_diam_d1": "363.5048095",
+    "minor_diam_d3": "362.6387841"
+  },
+  {
+    "id": "450",
+    "diam": "370",
+    "pitch": "4",
+    "pitch_diam_d2": "367.4019238",
+    "minor_diam_d1": "365.669873",
+    "minor_diam_d3": "365.0925227"
+  },
+  {
+    "id": "451",
+    "diam": "380",
+    "pitch": "8",
+    "pitch_diam_d2": "374.8038476",
+    "minor_diam_d1": "371.339746",
+    "minor_diam_d3": "370.1850454"
+  },
+  {
+    "id": "452",
+    "diam": "380",
+    "pitch": "6",
+    "pitch_diam_d2": "376.1028857",
+    "minor_diam_d1": "373.5048095",
+    "minor_diam_d3": "372.6387841"
+  },
+  {
+    "id": "453",
+    "diam": "380",
+    "pitch": "4",
+    "pitch_diam_d2": "377.4019238",
+    "minor_diam_d1": "375.669873",
+    "minor_diam_d3": "375.0925227"
+  },
+  {
+    "id": "454",
+    "diam": "390",
+    "pitch": "6",
+    "pitch_diam_d2": "386.1028857",
+    "minor_diam_d1": "383.5048095",
+    "minor_diam_d3": "382.6387841"
+  },
+  {
+    "id": "455",
+    "diam": "390",
+    "pitch": "4",
+    "pitch_diam_d2": "387.4019238",
+    "minor_diam_d1": "385.669873",
+    "minor_diam_d3": "385.0925227"
+  },
+  {
+    "id": "456",
+    "diam": "400",
+    "pitch": "8",
+    "pitch_diam_d2": "394.8038476",
+    "minor_diam_d1": "391.339746",
+    "minor_diam_d3": "390.1850454"
+  },
+  {
+    "id": "457",
+    "diam": "400",
+    "pitch": "6",
+    "pitch_diam_d2": "396.1028857",
+    "minor_diam_d1": "393.5048095",
+    "minor_diam_d3": "392.6387841"
+  },
+  {
+    "id": "458",
+    "diam": "400",
+    "pitch": "4",
+    "pitch_diam_d2": "397.4019238",
+    "minor_diam_d1": "395.669873",
+    "minor_diam_d3": "395.0925227"
+  },
+  {
+    "id": "459",
+    "diam": "410",
+    "pitch": "6",
+    "pitch_diam_d2": "406.1028857",
+    "minor_diam_d1": "403.5048095",
+    "minor_diam_d3": "402.6387841"
+  },
+  {
+    "id": "460",
+    "diam": "420",
+    "pitch": "8",
+    "pitch_diam_d2": "414.8038476",
+    "minor_diam_d1": "411.339746",
+    "minor_diam_d3": "410.1850454"
+  },
+  {
+    "id": "461",
+    "diam": "420",
+    "pitch": "6",
+    "pitch_diam_d2": "416.1028857",
+    "minor_diam_d1": "413.5048095",
+    "minor_diam_d3": "412.6387841"
+  },
+  {
+    "id": "462",
+    "diam": "430",
+    "pitch": "6",
+    "pitch_diam_d2": "426.1028857",
+    "minor_diam_d1": "423.5048095",
+    "minor_diam_d3": "422.6387841"
+  },
+  {
+    "id": "463",
+    "diam": "440",
+    "pitch": "8",
+    "pitch_diam_d2": "434.8038476",
+    "minor_diam_d1": "431.339746",
+    "minor_diam_d3": "430.1850454"
+  },
+  {
+    "id": "464",
+    "diam": "440",
+    "pitch": "6",
+    "pitch_diam_d2": "436.1028857",
+    "minor_diam_d1": "433.5048095",
+    "minor_diam_d3": "432.6387841"
+  },
+  {
+    "id": "465",
+    "diam": "450",
+    "pitch": "6",
+    "pitch_diam_d2": "446.1028857",
+    "minor_diam_d1": "443.5048095",
+    "minor_diam_d3": "442.6387841"
+  },
+  {
+    "id": "466",
+    "diam": "460",
+    "pitch": "8",
+    "pitch_diam_d2": "454.8038476",
+    "minor_diam_d1": "451.339746",
+    "minor_diam_d3": "450.1850454"
+  },
+  {
+    "id": "467",
+    "diam": "460",
+    "pitch": "6",
+    "pitch_diam_d2": "456.1028857",
+    "minor_diam_d1": "453.5048095",
+    "minor_diam_d3": "452.6387841"
+  },
+  {
+    "id": "468",
+    "diam": "470",
+    "pitch": "6",
+    "pitch_diam_d2": "466.1028857",
+    "minor_diam_d1": "463.5048095",
+    "minor_diam_d3": "462.6387841"
+  },
+  {
+    "id": "469",
+    "diam": "480",
+    "pitch": "8",
+    "pitch_diam_d2": "474.8038476",
+    "minor_diam_d1": "471.339746",
+    "minor_diam_d3": "470.1850454"
+  },
+  {
+    "id": "470",
+    "diam": "480",
+    "pitch": "6",
+    "pitch_diam_d2": "476.1028857",
+    "minor_diam_d1": "473.5048095",
+    "minor_diam_d3": "472.6387841"
+  },
+  {
+    "id": "471",
+    "diam": "490",
+    "pitch": "6",
+    "pitch_diam_d2": "486.1028857",
+    "minor_diam_d1": "483.5048095",
+    "minor_diam_d3": "482.6387841"
+  },
+  {
+    "id": "472",
+    "diam": "500",
+    "pitch": "8",
+    "pitch_diam_d2": "494.8038476",
+    "minor_diam_d1": "491.339746",
+    "minor_diam_d3": "490.1850454"
+  },
+  {
+    "id": "473",
+    "diam": "500",
+    "pitch": "6",
+    "pitch_diam_d2": "496.1028857",
+    "minor_diam_d1": "493.5048095",
+    "minor_diam_d3": "492.6387841"
+  },
+  {
+    "id": "474",
+    "diam": "510",
+    "pitch": "6",
+    "pitch_diam_d2": "506.1028857",
+    "minor_diam_d1": "503.5048095",
+    "minor_diam_d3": "502.6387841"
+  },
+  {
+    "id": "475",
+    "diam": "520",
+    "pitch": "8",
+    "pitch_diam_d2": "514.8038476",
+    "minor_diam_d1": "511.339746",
+    "minor_diam_d3": "510.1850454"
+  },
+  {
+    "id": "476",
+    "diam": "520",
+    "pitch": "6",
+    "pitch_diam_d2": "516.1028857",
+    "minor_diam_d1": "513.5048095",
+    "minor_diam_d3": "512.6387841"
+  },
+  {
+    "id": "477",
+    "diam": "530",
+    "pitch": "6",
+    "pitch_diam_d2": "526.1028857",
+    "minor_diam_d1": "523.5048095",
+    "minor_diam_d3": "522.6387841"
+  },
+  {
+    "id": "478",
+    "diam": "540",
+    "pitch": "8",
+    "pitch_diam_d2": "534.8038476",
+    "minor_diam_d1": "531.339746",
+    "minor_diam_d3": "530.1850454"
+  },
+  {
+    "id": "479",
+    "diam": "540",
+    "pitch": "6",
+    "pitch_diam_d2": "536.1028857",
+    "minor_diam_d1": "533.5048095",
+    "minor_diam_d3": "532.6387841"
+  },
+  {
+    "id": "480",
+    "diam": "550",
+    "pitch": "6",
+    "pitch_diam_d2": "546.1028857",
+    "minor_diam_d1": "543.5048095",
+    "minor_diam_d3": "542.6387841"
+  },
+  {
+    "id": "481",
+    "diam": "560",
+    "pitch": "8",
+    "pitch_diam_d2": "554.8038476",
+    "minor_diam_d1": "551.339746",
+    "minor_diam_d3": "550.1850454"
+  },
+  {
+    "id": "482",
+    "diam": "560",
+    "pitch": "6",
+    "pitch_diam_d2": "556.1028857",
+    "minor_diam_d1": "553.5048095",
+    "minor_diam_d3": "552.6387841"
+  },
+  {
+    "id": "483",
+    "diam": "570",
+    "pitch": "6",
+    "pitch_diam_d2": "566.1028857",
+    "minor_diam_d1": "563.5048095",
+    "minor_diam_d3": "562.6387841"
+  },
+  {
+    "id": "484",
+    "diam": "580",
+    "pitch": "8",
+    "pitch_diam_d2": "574.8038476",
+    "minor_diam_d1": "571.339746",
+    "minor_diam_d3": "570.1850454"
+  },
+  {
+    "id": "485",
+    "diam": "580",
+    "pitch": "6",
+    "pitch_diam_d2": "576.1028857",
+    "minor_diam_d1": "573.5048095",
+    "minor_diam_d3": "572.6387841"
+  },
+  {
+    "id": "486",
+    "diam": "590",
+    "pitch": "6",
+    "pitch_diam_d2": "586.1028857",
+    "minor_diam_d1": "583.5048095",
+    "minor_diam_d3": "582.6387841"
+  },
+  {
+    "id": "487",
+    "diam": "600",
+    "pitch": "8",
+    "pitch_diam_d2": "594.8038476",
+    "minor_diam_d1": "591.339746",
+    "minor_diam_d3": "590.1850454"
+  },
+  {
+    "id": "488",
+    "diam": "600",
+    "pitch": "6",
+    "pitch_diam_d2": "596.1028857",
+    "minor_diam_d1": "593.5048095",
+    "minor_diam_d3": "592.6387841"
+  }
+]
