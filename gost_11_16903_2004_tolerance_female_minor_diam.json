@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "pitch": "0.2",
+    "accuracy_4": "38",
+    "accuracy_5": "48",
+    "accuracy_6": "60"
+  },
+  {
+    "id": "2",
+    "pitch": "0.25",
+    "accuracy_4": "45",
+    "accuracy_5": "56",
+    "accuracy_6": "71"
+  },
+  {
+    "id": "3",
+    "pitch": "0.3",
+    "accuracy_4": "53",
+    "accuracy_5": "67",
+    "accuracy_6": "85"
+  },
+  {
+    "id": "4",
+    "pitch": "0.35",
+    "accuracy_4": "63",
+    "accuracy_5": "80",
+    "accuracy_6": "100"
+  },
+  {
+    "id": "5",
+    "pitch": "0.4",
+    "accuracy_4": "71",
+    "accuracy_5": "90",
+    "accuracy_6": "112"
+  },
+  {
+    "id": "6",
+    "pitch": "0.45",
+    "accuracy_4": "80",
+    "accuracy_5": "100",
+    "accuracy_6": "125"
+  },
+  {
+    "id": "7",
+    "pitch": "0.5",
+    "accuracy_4": "90",
+    "accuracy_5": "112",
+    "accuracy_6": "140",
+    "accuracy_7": "180"
+  },
+  {
+    "id": "8",
+    "pitch": "0.6",
+    "accuracy_4": "100",
+    "accuracy_5": "125",
+    "accuracy_6": "160",
+    "accuracy_7": "200"
+  },
+  {
+    "id": "9",
+    "pitch": "0.7",
+    "accuracy_4": "112",
+    "accuracy_5": "140",
+    "accuracy_6": "180",
+    "accuracy_7": "224"
+  },
+  {
+    "id": "10",
+    "pitch": "0.75",
+    "accuracy_4": "118",
+    "accuracy_5": "150",
+    "accuracy_6": "190",
+    "accuracy_7": "236"
+  },
+  {
+    "id": "11",
+    "pitch": "0.8",
+    "accuracy_4": "125",
+    "accuracy_5": "160",
+    "accuracy_6": "200",
+    "accuracy_7": "250",
+    "accuracy_8": "315"
+  },
+  {
+    "id": "12",
+    "pitch": "1",
+    "accuracy_4": "150",
+    "accuracy_5": "190",
+    "accuracy_6": "236",
+    "accuracy_7": "300",
+    "accuracy_8": "375"
+  },
+  {
+    "id": "13",
+    "pitch": "1.25",
+    "accuracy_4": "170",
+    "accuracy_5": "212",
+    "accuracy_6": "265",
+    "accuracy_7": "335",
+    "accuracy_8": "425"
+  },
+  {
+    "id": "14",
+    "pitch": "1.5",
+    "accuracy_4": "190",
+    "accuracy_5": "236",
+    "accuracy_6": "300",
+    "accuracy_7": "375",
+    "accuracy_8": "475"
+  },
+  {
+    "id": "15",
+    "pitch": "1.75",
+    "accuracy_4": "212",
+    "accuracy_5": "265",
+    "accuracy_6": "335",
+    "accuracy_7": "425",
+    "accuracy_8": "530"
+  },
+  {
+    "id": "16",
+    "pitch": "2",
+    "accuracy_4": "236",
+    "accuracy_5": "300",
+    "accuracy_6": "375",
+    "accuracy_7": "475",
+    "accuracy_8": "600"
+  },
+  {
+    "id": "17",
+    "pitch": "2.5",
+    "accuracy_4": "280",
+    "accuracy_5": "355",
+    "accuracy_6": "450",
+    "accuracy_7": "560",
+    "accuracy_8": "710"
+  },
+  {
+    "id": "18",
+    "pitch": "3",
+    "accuracy_4": "315",
+    "accuracy_5": "400",
+    "accuracy_6": "500",
+    "accuracy_7": "630",
+    "accuracy_8": "800"
+  },
+  {
+    "id": "19",
+    "pitch": "3.5",
+    "accuracy_4": "355",
+    "accuracy_5": "450",
+    "accuracy_6": "560",
+    "accuracy_7": "710",
+    "accuracy_8": "900"
+  },
+  {
+    "id": "20",
+    "pitch": "4",
+    "accuracy_4": "375",
+    "accuracy_5": "475",
+    "accuracy_6": "600",
+    "accuracy_7": "750",
+    "accuracy_8": "950"
+  },
+  {
+    "id": "21",
+    "pitch": "4.5",
+    "accuracy_4": "425",
+    "accuracy_5": "530",
+    "accuracy_6": "670",
+    "accuracy_7": "850",
+    "accuracy_8": "1060"
+  },
+  {
+    "id": "22",
+    "pitch": "5",
+    "accuracy_4": "450",
+    "accuracy_5": "560",
+    "accuracy_6": "710",
+    "accuracy_7": "900",
+    "accuracy_8": "1120"
+  },
+  {
+    "id": "23",
+    "pitch": "5.5",
+    "accuracy_4": "475",
+    "accuracy_5": "600",
+    "accuracy_6": "750",
+    "accuracy_7": "950",
+    "accuracy_8": "1180"
+  },
+  {
+    "id": "24",
+    "pitch": "6",
+    "accuracy_4": "500",
+    "accuracy_5": "630",
+    "accuracy_6": "800",
+    "accuracy_7": "1000",
+    "accuracy_8": "1250"
+  },
+  {
+    "id": "25",
+    "pitch": "8",
+    "accuracy_4": "630",
+    "accuracy_5": "800",
+    "accuracy_6": "1000",
+    "accuracy_7": "1250",
+    "accuracy_8": "1600"
+  }
+]
